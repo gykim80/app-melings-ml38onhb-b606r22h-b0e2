@@ -1,0 +1,80 @@
+[
+  {
+    "id": "artwork-001",
+    "title": "봄의 소녀",
+    "category": "Character",
+    "tags": ["Original", "Spring", "Cute"],
+    "thumbnail": "/images/artworks/001-thumb.jpg",
+    "fullImage": "/images/artworks/001-full.jpg",
+    "webpImage": "/images/artworks/001-full.webp",
+    "createdAt": "2024-03-15",
+    "description": "벚꽃 아래에서 미소 짓는 소녀를 그렸습니다.",
+    "width": 1920,
+    "height": 2560
+  },
+  {
+    "id": "artwork-002",
+    "title": "여름 해변",
+    "category": "Background",
+    "tags": ["Original", "Summer", "Landscape"],
+    "thumbnail": "/images/artworks/002-thumb.jpg",
+    "fullImage": "/images/artworks/002-full.jpg",
+    "webpImage": "/images/artworks/002-full.webp",
+    "createdAt": "2024-02-20",
+    "description": "푸른 바다와 하얀 모래사장이 있는 여름 풍경입니다.",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "id": "artwork-003",
+    "title": "학교 복도",
+    "category": "Illustration",
+    "tags": ["Original", "School", "Nostalgic"],
+    "thumbnail": "/images/artworks/003-thumb.jpg",
+    "fullImage": "/images/artworks/003-full.jpg",
+    "webpImage": "/images/artworks/003-full.webp",
+    "createdAt": "2024-01-10",
+    "description": "방과 후 고요한 학교 복도의 분위기를 담았습니다.",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "artwork-004",
+    "title": "초상화 커미션",
+    "category": "Character",
+    "tags": ["Commission", "Portrait"],
+    "thumbnail": "/images/artworks/004-thumb.jpg",
+    "fullImage": "/images/artworks/004-full.jpg",
+    "webpImage": "/images/artworks/004-full.webp",
+    "createdAt": "2023-12-05",
+    "description": "의뢰인의 오리지널 캐릭터 초상화입니다.",
+    "width": 1500,
+    "height": 2100
+  },
+  {
+    "id": "artwork-005",
+    "title": "판타지 숲",
+    "category": "Background",
+    "tags": ["Original", "Fantasy", "Nature"],
+    "thumbnail": "/images/artworks/005-thumb.jpg",
+    "fullImage": "/images/artworks/005-full.jpg",
+    "webpImage": "/images/artworks/005-full.webp",
+    "createdAt": "2023-11-18",
+    "description": "신비로운 빛이 흐르는 판타지 숲 배경입니다.",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "id": "artwork-006",
+    "title": "애니메이션 팬아트",
+    "category": "Fanart",
+    "tags": ["Fanart", "Anime"],
+    "thumbnail": "/images/artworks/006-thumb.jpg",
+    "fullImage": "/images/artworks/006-full.jpg",
+    "webpImage": "/images/artworks/006-full.webp",
+    "createdAt": "2023-10-22",
+    "description": "좋아하는 애니메이션 캐릭터 팬아트입니다.",
+    "width": 1920,
+    "height": 2560
+  }
+]

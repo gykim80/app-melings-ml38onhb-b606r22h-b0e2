@@ -1,0 +1,2201 @@
+{
+  "version": 1,
+  "savedAt": "2026-02-01T04:26:53.352Z",
+  "appMeta": {
+    "appTitle": "일본 미소녀풍 일러스트 작가 Melings의 아트워크 ",
+    "chatPrompt": "일본 미소녀풍 일러스트 작가 Melings의 아트워크 포트폴리오 사이트",
+    "createdAt": "2026-02-01T04:26:53.352Z",
+    "lastModifiedAt": "2026-02-01T04:26:53.352Z"
+  },
+  "chatHistory": [
+    {
+      "id": "msg_1769912710253_fi02wc8",
+      "role": "assistant",
+      "content": "💡 요구사항 분석을 시작합니다...",
+      "timestamp": "2026-02-01T02:25:10.253Z"
+    },
+    {
+      "id": "msg_1769912710253_yyou9dr",
+      "role": "assistant",
+      "content": "🚀 요구사항을 분석하고 있습니다...",
+      "timestamp": "2026-02-01T02:25:10.253Z"
+    },
+    {
+      "id": "msg_1769912710253_vch0ucn",
+      "role": "assistant",
+      "content": "💡 요구사항을 분석하고 있습니다...",
+      "timestamp": "2026-02-01T02:25:10.253Z"
+    },
+    {
+      "id": "msg_1769912710253_cble4im",
+      "role": "assistant",
+      "content": "💭 사용자의 요청에서 핵심 기능 요구사항을 파악합니다.",
+      "timestamp": "2026-02-01T02:25:10.253Z"
+    },
+    {
+      "id": "msg_1769912710253_2ac2lgo",
+      "role": "assistant",
+      "content": "💭 기능적 요구사항(시스템 동작)을 도출합니다.",
+      "timestamp": "2026-02-01T02:25:10.253Z"
+    },
+    {
+      "id": "msg_1769912710253_9rzaeuw",
+      "role": "assistant",
+      "content": "💭 비기능적 요구사항(성능, 보안, UX)을 도출합니다.",
+      "timestamp": "2026-02-01T02:25:10.253Z"
+    },
+    {
+      "id": "msg_1769912754251_jto4idk",
+      "role": "assistant",
+      "content": "",
+      "timestamp": "2026-02-01T02:25:54.251Z"
+    },
+    {
+      "id": "msg_1769912754251_3y03s33",
+      "role": "assistant",
+      "content": "🧠 AI 분석 (requirements_analysis):\n사용자가 요청한 것은 \"일본 미소녀풍 일러스트 작가 Melings의 아트워크 포트폴리오 사이트\"입니다.\n\nDr. Sarah Chen의 관점에서 깊이 분석해보겠습니다.\n\n## 1. 도메인 깊이 분석\n- **산업/도메인**: 디지털 아트 포트폴리오, 일러스트레이터 개인 브랜딩\n- **성공한 유사 제품들**:\n  - ArtStation (프로페셔널 아트 포트폴리오)\n  - Pixiv (일본 일러스트레이터 커뮤니티)\n  - Behance (크리에이티브 포트폴리오)\n  - 개인 작가 사이트들 (wlop.art, loish.net 등)\n\n- **타겟 사용자의 실제 pain points**:\n  1. 작가 입장: 작품을 효과적으로 보여주고 싶지만 웹 개발 지식이 부족\n  2. 감상자 입장: 고해상도 이미지를 빠르게 로딩하고 싶고, 작품을 크게 보고 싶음\n  3. 잠재 고객 입장: 커미션/의뢰 방법을 쉽게 찾고 싶음\n\n- **차별화 포인트**:\n  - 일본 미소녀풍 특화 스타일 강조\n  - Mel...",
+      "timestamp": "2026-02-01T02:25:54.251Z"
+    },
+    {
+      "id": "msg_1769912896543_i66bzt1",
+      "role": "assistant",
+      "content": "💭 요구사항 분석 완료: 5개 핵심 요구사항, 13개 기능적 요구사항 도출. 신뢰도: 92%",
+      "timestamp": "2026-02-01T02:28:16.543Z"
+    },
+    {
+      "id": "msg_1769912896544_hb8y7b1",
+      "role": "assistant",
+      "content": "💡 요구사항을 분석하고 있습니다... (20%)",
+      "timestamp": "2026-02-01T02:28:16.544Z"
+    },
+    {
+      "id": "msg_1769912896544_ymah4vt",
+      "role": "assistant",
+      "content": "🚀 아키텍처를 설계하고 있습니다...",
+      "timestamp": "2026-02-01T02:28:16.544Z"
+    },
+    {
+      "id": "msg_1769912896544_unao8qh",
+      "role": "assistant",
+      "content": "💡 아키텍처를 설계하고 있습니다...",
+      "timestamp": "2026-02-01T02:28:16.544Z"
+    },
+    {
+      "id": "msg_1769912896544_1zob1g5",
+      "role": "assistant",
+      "content": "💭 요구사항을 바탕으로 최적의 아키텍처 패턴을 선택합니다.",
+      "timestamp": "2026-02-01T02:28:16.544Z"
+    },
+    {
+      "id": "msg_1769912896544_s7ibxl2",
+      "role": "assistant",
+      "content": "💭 기술 스택과 컴포넌트 구조를 결정합니다.",
+      "timestamp": "2026-02-01T02:28:16.544Z"
+    },
+    {
+      "id": "msg_1769912934600_4716ga8",
+      "role": "assistant",
+      "content": "",
+      "timestamp": "2026-02-01T02:28:54.600Z"
+    },
+    {
+      "id": "msg_1769912934600_2qimgai",
+      "role": "assistant",
+      "content": "🧠 AI 분석 (architecture_design):\n이 요구사항은 일러스트레이터 Melings의 포트폴리오 웹사이트를 위한 것입니다. 핵심은:\n\n1. **도메인**: 일본 미소녀풍 일러스트 포트폴리오\n2. **핵심 기능**: \n   - 갤러리 그리드 뷰\n   - 라이트박스 이미지 뷰어 (키보드 네비게이션)\n   - About/Contact 페이지\n   - 반응형 디자인\n   - 이미지 최적화 (레이지 로딩, WebP)\n\n3. **기술 스택 (고정)**:\n   - React 18 + TypeScript (strict)\n   - Vite\n   - Tailwind CSS\n   - shadcn/ui\n   - Zustand (필요시)\n   - Framer Motion\n   - Lucide React\n\n4. **제약사항**:\n   - 프론트엔드 단독 (백엔드 없음)\n   - JSON 파일로 작품 데이터 관리\n   - 정적 이미지 제공\n\n5. **NFR**:\n   - FCP < 1.5s, LCP < 3s\n   - 썸네일 < 100KB, WebP ...",
+      "timestamp": "2026-02-01T02:28:54.600Z"
+    },
+    {
+      "id": "msg_1769913149381_f1ybof2",
+      "role": "assistant",
+      "content": "💭 아키텍처 검증 결과: 신뢰도 65%. 1개 이슈 발견. 재설계를 수행합니다.",
+      "timestamp": "2026-02-01T02:32:29.381Z"
+    },
+    {
+      "id": "msg_1769913171232_xmz3mfj",
+      "role": "assistant",
+      "content": "",
+      "timestamp": "2026-02-01T02:32:51.232Z"
+    },
+    {
+      "id": "msg_1769913171232_s3s5apb",
+      "role": "assistant",
+      "content": "🧠 AI 분석 (architecture_design):\n현재 아키텍처 분석의 문제점:\n1. 컴포넌트 타입에 \"hook\"과 \"store\"가 이미 있는데, \"component\" 타입이 누락되었다는 경고가 있음\n2. 신뢰도가 65%로 낮음\n\n분석 결과를 보니:\n- 이미 hook 타입 컴포넌트: useArtworks, useLightbox, useIntersectionObserver, useTheme\n- 이미 store 타입 컴포넌트: useAppStore\n- 그런데 \"component\" 타입이 누락되었다는 게 이상함\n\n아마도 검증 스크립트에서 일반적인 React 컴포넌트를 \"component\" 타입으로 분류해야 하는데, 현재는 \"ui\", \"feature\", \"container\", \"utility\"로만 분류되어 있어서 경고가 발생한 것 같음.\n\n해결 방법:\n1. 일부 컴포넌트의 type을 \"component\"로 변경하거나\n2. 또는 기존 타입 체계가 맞다면 검증 스크립트가 잘못된 것\n\n하지만 프롬프트를 보면 type은 \"ui\" | \"featur...",
+      "timestamp": "2026-02-01T02:32:51.232Z"
+    },
+    {
+      "id": "msg_1769913394316_fv7awud",
+      "role": "assistant",
+      "content": "💭 재설계 완료. 개선된 신뢰도: 70%",
+      "timestamp": "2026-02-01T02:36:34.316Z"
+    },
+    {
+      "id": "msg_1769913394320_77mregw",
+      "role": "assistant",
+      "content": "💭 아키텍처 설계 완료: Component-Based 패턴 선택, 33개 컴포넌트 정의",
+      "timestamp": "2026-02-01T02:36:34.320Z"
+    },
+    {
+      "id": "msg_1769913394320_psfyb4l",
+      "role": "assistant",
+      "content": "💡 아키텍처를 설계하고 있습니다... (40%)",
+      "timestamp": "2026-02-01T02:36:34.320Z"
+    },
+    {
+      "id": "msg_1769913394320_lw8e91t",
+      "role": "assistant",
+      "content": "🚀 설계 문서가 준비되었습니다. 검토 후 승인해주세요.",
+      "timestamp": "2026-02-01T02:36:34.320Z"
+    },
+    {
+      "id": "msg_1769913394320_g1kezgr",
+      "role": "assistant",
+      "content": "💡 설계 문서가 준비되었습니다. 검토 후 승인해주세요.",
+      "timestamp": "2026-02-01T02:36:34.320Z"
+    },
+    {
+      "id": "msg_1769913394320_l53lkkl",
+      "role": "assistant",
+      "content": "📋 설계 문서가 준비되었습니다. 오른쪽 Planning 탭에서 검토 후 승인해주세요.",
+      "timestamp": "2026-02-01T02:36:34.320Z"
+    },
+    {
+      "id": "msg_1769913394320_h0f6v5m",
+      "role": "assistant",
+      "content": "💡 설계 문서가 준비되었습니다. 검토 후 승인해주세요.",
+      "timestamp": "2026-02-01T02:36:34.320Z"
+    },
+    {
+      "id": "msg_1769919539172_2o4a3sd",
+      "role": "assistant",
+      "content": "💡 설계가 승인되었습니다. 관련 문서를 수집합니다...",
+      "timestamp": "2026-02-01T04:18:59.172Z"
+    },
+    {
+      "id": "msg_1769919539172_d00hw5o",
+      "role": "assistant",
+      "content": "🚀 관련 문서를 수집하고 있습니다...",
+      "timestamp": "2026-02-01T04:18:59.172Z"
+    },
+    {
+      "id": "msg_1769919539172_4uurrqt",
+      "role": "assistant",
+      "content": "💡 관련 문서를 수집하고 있습니다...",
+      "timestamp": "2026-02-01T04:18:59.172Z"
+    },
+    {
+      "id": "msg_1769919539211_aazveb3",
+      "role": "assistant",
+      "content": "💡 관련 문서를 수집하고 있습니다... (60%)",
+      "timestamp": "2026-02-01T04:18:59.211Z"
+    },
+    {
+      "id": "msg_1769919539225_9gwhqh4",
+      "role": "assistant",
+      "content": "🚀 구현 계획을 수립하고 있습니다...",
+      "timestamp": "2026-02-01T04:18:59.225Z"
+    },
+    {
+      "id": "msg_1769919539225_ec8hifi",
+      "role": "assistant",
+      "content": "💡 구현 계획을 수립하고 있습니다...",
+      "timestamp": "2026-02-01T04:18:59.225Z"
+    },
+    {
+      "id": "msg_1769919539225_g6xb5yk",
+      "role": "assistant",
+      "content": "💭 컴포넌트 간 의존성을 분석하여 구현 순서를 결정합니다.",
+      "timestamp": "2026-02-01T04:18:59.225Z"
+    },
+    {
+      "id": "msg_1769919553783_qt9v98e",
+      "role": "assistant",
+      "content": "",
+      "timestamp": "2026-02-01T04:19:13.783Z"
+    },
+    {
+      "id": "msg_1769919553783_w6j3jeu",
+      "role": "assistant",
+      "content": "🧠 AI 분석 (implementation_planning):\n이 요청은 일러스트레이터 포트폴리오 웹사이트의 구현 계획을 수립하는 것입니다. 요구사항 분석과 아키텍처 설계가 이미 상세히 제공되었으므로, 이를 바탕으로 단계별 구현 계획을 작성해야 합니다.\n\n핵심 원칙:\n1. 의존성 우선 구현\n2. 점진적 통합\n3. 기술적 불확실성이 높은 부분 먼저\n4. 병렬 작업 가능한 부분 식별\n\nPhase 구성:\n- Phase 0: 프로젝트 설정\n- Phase 1: 기반 타입 및 유틸리티\n- Phase 2: 공통 UI 컴포넌트\n- Phase 3: 상태 관리 및 훅\n- Phase 4: Feature 컴포넌트\n- Phase 5: 통합 및 최적화\n\n각 Phase별로:\n- 파일 목록과 구현 순서\n- 각 파일의 목적, 핵심 구현, 의존성, export API\n- 검증 기준\n\n전문가 관점:\n- David Park: 실용적 구현, 성능 최적화, 코드 품질\n- Dr. Sarah Chen: 시스템 아키텍처, 확장성, 장기 유지보수성\n\nCritical Path 식별:\ntype...",
+      "timestamp": "2026-02-01T04:19:13.783Z"
+    },
+    {
+      "id": "msg_1769919784918_6rpxadt",
+      "role": "assistant",
+      "content": "💭 구현 계획 완료: 7개 phase, 총 46개 파일 생성 예정",
+      "timestamp": "2026-02-01T04:23:04.918Z"
+    },
+    {
+      "id": "msg_1769919784919_jkzmcpn",
+      "role": "assistant",
+      "content": "💡 구현 계획을 수립하고 있습니다... (70%)",
+      "timestamp": "2026-02-01T04:23:04.919Z"
+    },
+    {
+      "id": "msg_1769919784919_lmm85q5",
+      "role": "assistant",
+      "content": "🚀 코드를 생성하고 있습니다...",
+      "timestamp": "2026-02-01T04:23:04.919Z"
+    },
+    {
+      "id": "msg_1769919784919_7eew1y4",
+      "role": "assistant",
+      "content": "💡 코드를 생성하고 있습니다...",
+      "timestamp": "2026-02-01T04:23:04.919Z"
+    },
+    {
+      "id": "msg_1769919784919_y4j9ow3",
+      "role": "assistant",
+      "content": "💭 설계 문서와 수집된 문서를 바탕으로 코드를 생성합니다.",
+      "timestamp": "2026-02-01T04:23:04.919Z"
+    },
+    {
+      "id": "msg_1769919799588_47btxcx",
+      "role": "assistant",
+      "content": "",
+      "timestamp": "2026-02-01T04:23:19.588Z"
+    },
+    {
+      "id": "msg_1769919799588_g4grz82",
+      "role": "assistant",
+      "content": "🧠 AI 분석 (code_generation):\n사용자가 일본 미소녀풍 일러스트 갤러리 웹사이트를 위한 완전한 코드를 요청하고 있습니다. David Park의 페르소나로서 프로덕션 품질의 코드를 생성해야 합니다.\n\n핵심 요구사항을 분석해보겠습니다:\n\n1. **갤러리 그리드 뷰**: 작품 썸네일 그리드, 반응형 레이아웃\n2. **라이트박스 뷰어**: 모달 형태, 고해상도 이미지, 이전/다음 네비게이션\n3. **About/Contact 페이지**: 작가 소개, 커미션 정보\n4. **반응형 디자인**: 모바일부터 데스크톱까지\n5. **성능 최적화**: 레이지 로딩, 이미지 최적화\n6. **다크/라이트 테마**\n7. **접근성**: 키보드 네비게이션, ARIA\n\n기술 스택:\n- React 18 + TypeScript\n- Vite\n- Tailwind CSS\n- shadcn/ui\n- Zustand (상태 관리)\n- React Router\n- Lucide React (아이콘)\n\nPhase별로 파일을 생성하겠습니다:\n\n**Phase 0**: 설...",
+      "timestamp": "2026-02-01T04:23:19.588Z"
+    },
+    {
+      "id": "msg_1769919981980_c9pqgzz",
+      "role": "assistant",
+      "content": "💭 코드 생성 완료: 23개 파일 생성",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769919981980_ggvo5h8",
+      "role": "assistant",
+      "content": "💡 코드를 생성하고 있습니다... (90%)",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769919981980_9ex4daf",
+      "role": "assistant",
+      "content": "🚀 품질을 검증하고 있습니다...",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769919981980_ns7ymmm",
+      "role": "assistant",
+      "content": "💡 품질을 검증하고 있습니다...",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769919981980_ld0l6yj",
+      "role": "assistant",
+      "content": "💡 품질을 검증하고 있습니다... (100%)",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769919981980_hc199dp",
+      "role": "assistant",
+      "content": "💡 23개의 파일을 생성했습니다.",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769919981980_ns42214",
+      "role": "assistant",
+      "content": "💡 앱을 배포합니다...",
+      "timestamp": "2026-02-01T04:26:21.980Z"
+    },
+    {
+      "id": "msg_1769920011854_4enlee1",
+      "role": "assistant",
+      "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
+      "timestamp": "2026-02-01T04:26:51.854Z"
+    }
+  ],
+  "proMode": {
+    "enabled": true,
+    "thinkingLevel": "think",
+    "designDocument": {
+      "id": "design_1769913394319",
+      "createdAt": "2026-02-01T02:36:34.319Z",
+      "updatedAt": "2026-02-01T04:18:59.172Z",
+      "requirements": {
+        "domainAnalysis": {
+          "industry": "디지털 아트 포트폴리오 / 일러스트레이터 개인 브랜딩",
+          "benchmarks": [
+            "ArtStation (프로페셔널 아트 포트폴리오 표준)",
+            "Pixiv (일본 일러스트레이터 커뮤니티)",
+            "개인 작가 사이트 (wlop.art, loish.net - 미니멀하고 작품 중심)",
+            "Behance (크리에이티브 포트폴리오)"
+          ],
+          "painPoints": [
+            "고해상도 일러스트 로딩 속도 - 감상자는 빠른 로딩을 원하지만 품질 저하는 원치 않음",
+            "모바일 감상 경험 부족 - 많은 포트폴리오 사이트가 데스크톱 중심으로 설계됨",
+            "연락/커미션 정보 접근성 - 잠재 고객이 의뢰 방법을 찾기 어려움"
+          ],
+          "differentiators": [
+            "일본 미소녀풍 특화 스타일을 부각하는 갤러리 큐레이션",
+            "Melings 개인 브랜드 정체성 강화 (일관된 비주얼 톤)",
+            "작품 감상에 최적화된 미니멀 인터페이스 (작품이 주인공)"
+          ]
+        },
+        "primaryPersona": {
+          "name": "김지우",
+          "age": 24,
+          "occupation": "대학생, 일러스트/애니메이션 팬",
+          "techLevel": "intermediate",
+          "goals": [
+            "좋아하는 작가의 최신 작품을 편하게 감상",
+            "마음에 드는 작품을 SNS에 공유하여 작가 홍보",
+            "작가의 성장 과정과 스타일 변화 추적"
+          ],
+          "frustrations": [
+            "많은 작가 사이트들이 이미지 로딩이 느리고 답답함",
+            "모바일에서 이미지가 작게 보이거나 확대가 불편함",
+            "작가 SNS가 여러 곳에 흩어져 있어 찾기 어려움"
+          ]
+        },
+        "userScenarios": [
+          {
+            "id": "SC-001",
+            "title": "신작 일러스트 감상하기",
+            "actor": "팬/감상자",
+            "precondition": "사이트 URL을 알고 있거나 SNS 링크를 통해 진입",
+            "steps": [
+              "홈페이지(갤러리) 진입 시 최신 작품들이 그리드로 표시됨",
+              "마음에 드는 썸네일 클릭",
+              "라이트박스가 열리며 고해상도 이미지와 작품 정보 표시",
+              "키보드 화살표 또는 버튼으로 다음/이전 작품 탐색",
+              "ESC 또는 닫기 버튼으로 갤러리 복귀"
+            ],
+            "expectedOutcome": "작품을 크고 선명하게 감상하고, 편리한 탐색으로 여러 작품을 이어서 볼 수 있음",
+            "frequency": "weekly"
+          },
+          {
+            "id": "SC-002",
+            "title": "작가 정보 및 SNS 확인",
+            "actor": "신규 방문자",
+            "precondition": "처음 사이트를 방문하거나 작가에 대해 더 알고 싶음",
+            "steps": [
+              "내비게이션에서 'About' 메뉴 클릭",
+              "작가 프로필, 경력, 작업 스타일 소개 읽기",
+              "SNS 아이콘 클릭하여 Twitter, Pixiv 등 팔로우"
+            ],
+            "expectedOutcome": "작가의 배경을 이해하고, 추가 콘텐츠를 위해 SNS 팔로우",
+            "frequency": "rarely"
+          },
+          {
+            "id": "SC-003",
+            "title": "커미션 문의 준비",
+            "actor": "잠재 고객 (게임/출판사 담당자)",
+            "precondition": "상업적 협업을 위해 작가를 평가 중",
+            "steps": [
+              "포트폴리오에서 다양한 작품 스타일 확인",
+              "카테고리 필터(캐릭터/배경/일러스트 등)로 관련 작품만 조회",
+              "'Contact' 또는 'Commission' 페이지 진입",
+              "연락 방법(이메일/DM), 커미션 가격 정책, 작업 소요 시간 확인"
+            ],
+            "expectedOutcome": "작가의 실력을 파악하고, 명확한 연락 경로를 통해 문의 진행",
+            "frequency": "monthly"
+          }
+        ],
+        "coreRequirements": [
+          "일본 미소녀풍 일러스트 작품들을 고품질로 감상할 수 있는 갤러리 인터페이스",
+          "작품 클릭 시 큰 화면(라이트박스)으로 디테일을 확인하고 연속 탐색 가능",
+          "작가 Melings의 정체성과 연락 방법을 명확히 전달하는 About/Contact 페이지",
+          "모바일부터 데스크톱까지 모든 기기에서 작품을 편하게 감상할 수 있는 반응형 디자인",
+          "빠른 로딩 속도로 사용자가 기다리지 않고 작품에 집중할 수 있는 성능"
+        ],
+        "functionalRequirements": [
+          {
+            "id": "FR-001",
+            "title": "갤러리 그리드 뷰",
+            "description": "홈페이지에 작품 썸네일들을 그리드 레이아웃으로 표시. 각 썸네일은 작품 제목과 미리보기 이미지를 포함하며, 클릭 시 라이트박스로 전환됨. 반응형으로 화면 크기에 따라 열 개수 자동 조정 (모바일 1-2열, 태블릿 3열, 데스크톱 4-5열).",
+            "priority": "must",
+            "acceptance": [
+              "Given 사용자가 홈페이지에 진입했을 때, When 페이지가 로드되면, Then 모든 작품 썸네일이 그리드로 정렬되어 표시된다",
+              "Given 사용자가 모바일 기기를 사용할 때, When 화면 너비가 768px 미만이면, Then 1-2열 그리드로 표시된다",
+              "Given 사용자가 썸네일 위에 마우스를 올렸을 때, When 호버 상태가 되면, Then 시각적 피드백(확대/그림자/오버레이)이 제공된다"
+            ],
+            "dependencies": [],
+            "estimatedComplexity": "medium"
+          },
+          {
+            "id": "FR-002",
+            "title": "라이트박스 이미지 뷰어",
+            "description": "썸네일 클릭 시 모달 형태의 라이트박스가 열리며 고해상도 원본 이미지를 표시. 이미지 로딩 중 스피너 표시. 좌우 화살표 버튼 또는 키보드로 이전/다음 작품 이동. ESC 키 또는 닫기 버튼으로 종료. 배경 클릭 시 닫기 옵션.",
+            "priority": "must",
+            "acceptance": [
+              "Given 사용자가 갤러리에서 썸네일을 클릭했을 때, When 클릭 이벤트가 발생하면, Then 200ms 이내에 라이트박스가 열리고 이미지 로딩을 시작한다",
+              "Given 라이트박스가 열린 상태에서, When 사용자가 키보드 화살표를 누르면, Then 이전/다음 작품으로 즉시 전환된다",
+              "Given 라이트박스가 열린 상태에서, When 사용자가 ESC 키를 누르거나 배경을 클릭하면, Then 라이트박스가 닫히고 갤러리로 복귀한다",
+              "Given 고해상도 이미지 로딩 중일 때, When 이미지가 완전히 로드되지 않았으면, Then 로딩 스피너가 표시된다"
+            ],
+            "dependencies": [
+              "FR-001"
+            ],
+            "estimatedComplexity": "high"
+          },
+          {
+            "id": "FR-003",
+            "title": "About 페이지",
+            "description": "작가 Melings의 프로필, 작업 스타일, 주요 경력, 작업 철학 등을 소개하는 페이지. 프로필 사진 또는 대표 일러스트 포함. 읽기 쉬운 레이아웃으로 구성.",
+            "priority": "must",
+            "acceptance": [
+              "Given 사용자가 About 페이지에 진입했을 때, When 페이지가 로드되면, Then 작가 소개, 프로필 이미지, SNS 링크가 명확히 표시된다",
+              "Given About 페이지에서, When 사용자가 스크롤하면, Then 읽기 편한 타이포그래피와 적절한 여백으로 콘텐츠가 구성된다"
+            ],
+            "dependencies": [],
+            "estimatedComplexity": "low"
+          },
+          {
+            "id": "FR-004",
+            "title": "Contact/Commission 정보",
+            "description": "이메일, SNS DM 등 연락 방법을 명시. 커미션 가능 여부, 대략적인 가격대, 작업 소요 시간, 주의사항 등 안내. FAQ 형식으로 구성 가능.",
+            "priority": "must",
+            "acceptance": [
+              "Given 사용자가 Contact 페이지에 진입했을 때, When 페이지가 로드되면, Then 연락 방법(이메일, SNS)이 명확히 표시된다",
+              "Given 잠재 고객이 커미션을 고려할 때, When Contact 정보를 읽으면, Then 가격, 소요 시간, 의뢰 절차를 이해할 수 있다"
+            ],
+            "dependencies": [],
+            "estimatedComplexity": "low"
+          },
+          {
+            "id": "FR-005",
+            "title": "반응형 내비게이션",
+            "description": "페이지 상단에 Gallery, About, Contact 메뉴. 모바일에서는 햄버거 메뉴로 변환. 현재 페이지 표시.",
+            "priority": "must",
+            "acceptance": [
+              "Given 사용자가 데스크톱에서 접속했을 때, When 화면 너비가 768px 이상이면, Then 상단에 가로 메뉴가 표시된다",
+              "Given 사용자가 모바일에서 접속했을 때, When 화면 너비가 768px 미만이면, Then 햄버거 아이콘이 표시되고 클릭 시 메뉴가 열린다",
+              "Given 사용자가 특정 페이지에 있을 때, When 내비게이션을 확인하면, Then 현재 페이지가 시각적으로 강조(active state)된다"
+            ],
+            "dependencies": [],
+            "estimatedComplexity": "medium"
+          },
+          {
+            "id": "FR-006",
+            "title": "이미지 레이지 로딩",
+            "description": "갤러리 썸네일을 뷰포트에 진입할 때만 로드하여 초기 로딩 속도 최적화. Intersection Observer API 활용.",
+            "priority": "should",
+            "acceptance": [
+              "Given 사용자가 갤러리를 로드했을 때, When 뷰포트 밖의 이미지는, Then 즉시 로드되지 않고 스크롤 시 로드된다",
+              "Given 사용자가 스크롤할 때, When 이미지가 뷰포트에 진입하면, Then 200px 전에 미리 로드를 시작한다"
+            ],
+            "dependencies": [
+              "FR-001"
+            ],
+            "estimatedComplexity": "medium"
+          },
+          {
+            "id": "FR-007",
+            "title": "카테고리/태그 필터링",
+            "description": "작품을 카테고리(캐릭터, 배경, 일러스트 등) 또는 태그(오리지널, 팬아트, 커미션 등)로 분류하여 필터링. 상단에 필터 버튼 또는 드롭다운 제공.",
+            "priority": "should",
+            "acceptance": [
+              "Given 갤러리에 필터 옵션이 표시될 때, When 사용자가 특정 카테고리를 선택하면, Then 해당 카테고리의 작품만 표시된다",
+              "Given 필터가 적용된 상태에서, When 사용자가 'All' 또는 '전체'를 선택하면, Then 모든 작품이 다시 표시된다",
+              "Given URL에 필터 파라미터가 있을 때, When 페이지 로드 시, Then 해당 필터가 자동 적용된다"
+            ],
+            "dependencies": [
+              "FR-001"
+            ],
+            "estimatedComplexity": "medium"
+          },
+          {
+            "id": "FR-008",
+            "title": "키보드 내비게이션 지원",
+            "description": "Tab 키로 갤러리 썸네일 이동, Enter로 라이트박스 열기, 화살표로 작품 전환, ESC로 닫기 등 모든 주요 기능을 키보드로 제어 가능.",
+            "priority": "should",
+            "acceptance": [
+              "Given 사용자가 키보드만 사용할 때, When Tab 키를 누르면, Then 갤러리 썸네일 간 포커스가 이동한다",
+              "Given 썸네일에 포커스가 있을 때, When Enter 키를 누르면, Then 라이트박스가 열린다",
+              "Given 라이트박스가 열린 상태에서, When 좌우 화살표 키를 누르면, Then 이전/다음 작품으로 이동한다"
+            ],
+            "dependencies": [
+              "FR-001",
+              "FR-002"
+            ],
+            "estimatedComplexity": "medium"
+          },
+          {
+            "id": "FR-009",
+            "title": "소셜 미디어 링크",
+            "description": "헤더/푸터 또는 About 페이지에 Twitter, Pixiv, Instagram 등 작가의 SNS 링크 제공. 아이콘 형태로 표시.",
+            "priority": "should",
+            "acceptance": [
+              "Given 사용자가 페이지 어디서든, When 헤더 또는 푸터를 확인하면, Then SNS 아이콘 링크가 표시된다",
+              "Given SNS 아이콘을 클릭했을 때, When 클릭 이벤트가 발생하면, Then 새 탭에서 해당 SNS 프로필이 열린다"
+            ],
+            "dependencies": [],
+            "estimatedComplexity": "low"
+          },
+          {
+            "id": "FR-010",
+            "title": "작품 메타데이터 표시",
+            "description": "라이트박스에서 작품 제목, 제작 날짜, 간단한 설명(선택 사항) 표시. 캡션 형태로 이미지 하단 또는 측면에 배치.",
+            "priority": "should",
+            "acceptance": [
+              "Given 라이트박스에서 이미지가 표시될 때, When 메타데이터가 존재하면, Then 작품 제목과 제작일이 함께 표시된다",
+              "Given 메타데이터에 설명이 포함되어 있을 때, When 사용자가 확인하면, Then 읽기 쉬운 형태로 표시된다"
+            ],
+            "dependencies": [
+              "FR-002"
+            ],
+            "estimatedComplexity": "low"
+          },
+          {
+            "id": "FR-011",
+            "title": "다크/라이트 테마 전환",
+            "description": "사용자가 테마를 선택할 수 있는 토글 버튼. LocalStorage에 선택 저장. 시스템 선호도(prefers-color-scheme) 자동 감지.",
+            "priority": "could",
+            "acceptance": [
+              "Given 사용자가 테마 토글 버튼을 클릭했을 때, When 현재 라이트 모드이면, Then 다크 모드로 전환되고 LocalStorage에 저장된다",
+              "Given 사용자가 처음 방문했을 때, When LocalStorage에 저장된 테마가 없으면, Then 시스템 선호도를 따른다",
+              "Given 테마가 변경되었을 때, When 페이지를 새로고침하면, Then 이전 선택이 유지된다"
+            ],
+            "dependencies": [],
+            "estimatedComplexity": "medium"
+          },
+          {
+            "id": "FR-012",
+            "title": "이미지 줌 기능",
+            "description": "라이트박스에서 이미지를 확대/축소할 수 있는 버튼 또는 핀치 제스처(모바일). 디테일 확인을 위한 기능.",
+            "priority": "could",
+            "acceptance": [
+              "Given 라이트박스에서 이미지가 표시될 때, When 사용자가 줌 인 버튼을 클릭하면, Then 이미지가 150%, 200%로 확대된다",
+              "Given 이미지가 확대된 상태에서, When 사용자가 드래그하면, Then 확대된 영역을 이동할 수 있다",
+              "Given 모바일에서, When 사용자가 핀치 제스처를 사용하면, Then 이미지가 부드럽게 확대/축소된다"
+            ],
+            "dependencies": [
+              "FR-002"
+            ],
+            "estimatedComplexity": "high"
+          },
+          {
+            "id": "FR-013",
+            "title": "슬라이드쇼 모드",
+            "description": "라이트박스에서 자동으로 다음 작품으로 넘어가는 슬라이드쇼 재생. 재생/일시정지 버튼, 속도 조절 옵션.",
+            "priority": "could",
+            "acceptance": [
+              "Given 라이트박스가 열린 상태에서, When 사용자가 슬라이드쇼 버튼을 클릭하면, Then 3-5초 간격으로 자동 전환된다",
+              "Given 슬라이드쇼가 재생 중일 때, When 사용자가 일시정지 버튼을 클릭하면, Then 자동 전환이 멈춘다"
+            ],
+            "dependencies": [
+              "FR-002"
+            ],
+            "estimatedComplexity": "medium"
+          }
+        ],
+        "nonFunctionalRequirements": [
+          {
+            "category": "performance",
+            "requirement": "초기 페이지 로딩 시간 최적화",
+            "metric": "First Contentful Paint < 1.5초, Largest Contentful Paint < 3초 (모바일 3G 기준)",
+            "priority": "must"
+          },
+          {
+            "category": "performance",
+            "requirement": "썸네일 이미지 최적화",
+            "metric": "썸네일 크기 < 100KB, WebP 포맷 우선 사용, 폴백으로 JPEG/PNG",
+            "priority": "must"
+          },
+          {
+            "category": "performance",
+            "requirement": "라이트박스 응답 시간",
+            "metric": "클릭 후 라이트박스 오픈 < 200ms, 이미지 간 전환 < 100ms",
+            "priority": "should"
+          },
+          {
+            "category": "accessibility",
+            "requirement": "키보드 접근성",
+            "metric": "모든 인터랙티브 요소에 Tab으로 접근 가능, 포커스 표시 명확",
+            "priority": "must"
+          },
+          {
+            "category": "accessibility",
+            "requirement": "스크린 리더 지원",
+            "metric": "모든 이미지에 alt 속성, ARIA 레이블 적절히 사용, 시맨틱 HTML",
+            "priority": "must"
+          },
+          {
+            "category": "accessibility",
+            "requirement": "색상 대비",
+            "metric": "WCAG 2.1 AA 기준 충족 (대비율 4.5:1 이상)",
+            "priority": "should"
+          },
+          {
+            "category": "usability",
+            "requirement": "반응형 디자인",
+            "metric": "320px ~ 1920px 모든 해상도에서 레이아웃 정상 작동",
+            "priority": "must"
+          },
+          {
+            "category": "usability",
+            "requirement": "터치 제스처 지원",
+            "metric": "모바일에서 스와이프로 갤러리 탐색, 핀치 줌 지원 (선택)",
+            "priority": "should"
+          },
+          {
+            "category": "reliability",
+            "requirement": "이미지 로딩 실패 처리",
+            "metric": "이미지 로드 실패 시 폴백 이미지 표시, 재시도 버튼 제공",
+            "priority": "should"
+          },
+          {
+            "category": "reliability",
+            "requirement": "브라우저 호환성",
+            "metric": "최신 Chrome, Safari, Firefox, Edge 지원, IE 11은 제외",
+            "priority": "must"
+          },
+          {
+            "category": "security",
+            "requirement": "외부 링크 보안",
+            "metric": "모든 외부 링크에 rel='noopener noreferrer' 적용",
+            "priority": "should"
+          },
+          {
+            "category": "performance",
+            "requirement": "번들 크기 최적화",
+            "metric": "초기 JavaScript 번들 < 300KB (gzip), CSS < 50KB",
+            "priority": "should"
+          }
+        ],
+        "constraints": [
+          "React + TypeScript + Vite 환경으로 제한 - 다른 프레임워크 사용 불가",
+          "프론트엔드 단독 구현 - 백엔드 서버, 데이터베이스 없음",
+          "작품 데이터는 JSON 파일로 관리 - 동적 CMS 없음, 배포 시마다 수동 업데이트",
+          "이미지는 public 폴더 또는 CDN에서 정적 제공 - 업로드 기능 없음",
+          "사용자 인증/계정 시스템 없음 - 공개 포트폴리오만",
+          "결제/이커머스 기능 없음 - 단순 정보 제공 사이트"
+        ],
+        "assumptions": [
+          "사용자는 최신 브라우저(Chrome, Safari, Firefox, Edge)를 사용 - IE 11 미지원",
+          "사용자는 기본적인 웹 탐색 능력 보유 - 스크롤, 클릭, 키보드 사용 가능",
+          "작가는 GitHub Pages, Vercel, Netlify 등 정적 사이트 배포 가능",
+          "작가는 JSON 파일 편집 또는 간단한 스크립트로 작품 추가 가능",
+          "타겟 사용자의 70% 이상이 모바일 기기로 접속 - Mobile-first 설계 정당화",
+          "고해상도 원본 이미지는 외부 CDN(Cloudinary, Imgur 등)에 호스팅 가능"
+        ],
+        "risks": [
+          {
+            "risk": "고해상도 이미지 로딩으로 인한 성능 저하",
+            "impact": "high",
+            "mitigation": "썸네일(~300px)과 원본 분리, WebP 포맷 우선 사용, 레이지 로딩, Progressive JPEG 적용, CDN 활용"
+          },
+          {
+            "risk": "작가가 콘텐츠를 직접 업데이트하기 어려움 (JSON 편집)",
+            "impact": "medium",
+            "mitigation": "명확한 JSON 스키마 문서 제공, 간단한 CLI 도구 또는 스크립트로 자동화, 향후 Headless CMS(Contentful, Strapi) 연동 고려"
+          },
+          {
+            "risk": "SPA 특성상 SEO 최적화 한계",
+            "impact": "medium",
+            "mitigation": "React Helmet으로 페이지별 메타 태그 관리, Open Graph/Twitter Card 설정, 향후 Next.js로 마이그레이션 고려(SSG/SSR)"
+          },
+          {
+            "risk": "라이트박스 구현 복잡도로 인한 버그 및 접근성 이슈",
+            "impact": "medium",
+            "mitigation": "검증된 라이브러리(react-image-lightbox, yet-another-react-lightbox) 활용, 철저한 키보드/스크린 리더 테스트"
+          },
+          {
+            "risk": "브라우저 간 이미지 포맷 호환성 (WebP 미지원)",
+            "impact": "low",
+            "mitigation": "<picture> 태그로 폴백 제공 - WebP → JPEG/PNG 순"
+          },
+          {
+            "risk": "작품 수가 100개 이상으로 증가 시 갤러리 성능 저하",
+            "impact": "low",
+            "mitigation": "가상 스크롤(react-window) 또는 페이지네이션 도입, 초기에는 레이지 로딩으로 충분"
+          }
+        ],
+        "outOfScope": [
+          "사용자 계정 시스템 (로그인/회원가입)",
+          "댓글 및 좋아요 기능",
+          "작품 온라인 구매/결제 시스템",
+          "실시간 커미션 예약 및 결제",
+          "다국어 지원 (한국어, 영어, 일본어) - 1.0 버전에서는 단일 언어",
+          "관리자 대시보드 (CMS)",
+          "작품 업로드 기능 (파일 업로드)",
+          "사용자 생성 콘텐츠 (UGC)",
+          "실시간 채팅/메시징",
+          "작품 다운로드 기능 (저작권 보호)",
+          "애니메이션 또는 인터랙티브 아트 재생",
+          "워터마크 자동 삽입 기능"
+        ],
+        "successCriteria": [
+          "모바일(4G)에서 갤러리 초기 로딩 3초 이내 완료",
+          "라이트박스 열기 및 작품 간 전환이 부드럽게 작동 (60fps)",
+          "키보드만으로 모든 갤러리 탐색 및 작품 감상 가능 (접근성)",
+          "Chrome, Safari, Firefox, Edge 최신 버전에서 정상 작동 확인",
+          "작가가 새 작품 추가 시 JSON 편집부터 배포까지 1시간 이내 가능",
+          "Lighthouse 점수 - Performance 90+, Accessibility 95+, Best Practices 90+",
+          "모바일 사용자가 터치 제스처로 자연스럽게 갤러리 탐색 가능",
+          "About/Contact 페이지에서 작가 정보와 연락 방법을 5초 이내에 찾을 수 있음"
+        ],
+        "expertNotes": {
+          "architectPerspective": "포트폴리오 사이트는 단순해 보이지만 이미지 성능과 접근성이 핵심입니다. 썸네일/원본 분리, WebP 포맷, 레이지 로딩은 필수이며, 향후 작품이 증가할 경우 가상 스크롤 또는 페이지네이션 도입을 고려해야 합니다. JSON 기반 데이터 관리는 초기에는 간단하지만, 작품이 100개 이상 되면 Headless CMS 연동이 필요할 것입니다. React Router로 Gallery/About/Contact를 분리하되, 라이트박스는 모달 형태로 URL 변경 없이 구현하여 UX를 부드럽게 유지하세요. 상태 관리는 Context API로 충분하며, 테마 전환 등 글로벌 상태가 필요한 경우에만 Zustand를 고려하세요.",
+          "uxPerspective": "일러스트 포트폴리오의 핵심은 '작품을 방해 없이 감상'입니다. 미니멀한 UI, 충분한 여백, 작품이 주인공이 되도록 설계하세요. 라이트박스는 키보드 화살표로 빠르게 탐색 가능해야 하며, ESC로 즉시 닫을 수 있어야 합니다. 모바일에서 스와이프 제스처는 직관적이므로 필수입니다. 에러 상태(이미지 로딩 실패)에 대한 명확한 피드백과 재시도 옵션을 제공하세요. 작가 브랜딩을 위해 일관된 색상/타이포그래피를 유지하되, 다크 모드 옵션으로 사용자 선택권을 주는 것이 좋습니다. Contact 페이지는 명확하고 간결하게 - 사용자가 5초 안에 이메일을 찾을 수 있어야 합니다."
+        },
+        "confidence": 0.92
+      },
+      "architecture": {
+        "overview": {
+          "summary": "일러스트레이터 포트폴리오를 위한 Feature-Based SPA 아키텍처. 갤러리, About, Contact를 독립 모듈로 분리하고, 이미지 최적화(WebP+레이지로딩)와 접근성(키보드+스크린리더)을 핵심으로 설계. JSON 파일 기반 정적 데이터 관리로 백엔드 없이 작동하며, 향후 Headless CMS 전환 경로 확보.",
+          "pattern": "Feature-Based",
+          "patternRationale": "Gallery/About/Contact 각 기능이 독립적인 비즈니스 도메인을 가지며, 향후 확장 시 기능 단위 분리가 용이. 컴포넌트 재사용성보다 기능 응집도가 더 중요한 포트폴리오 특성에 적합.",
+          "keyDecisions": [
+            {
+              "decision": "라이트박스를 URL 라우팅 없이 모달로 구현",
+              "rationale": "작품 감상 중 브라우저 뒤로가기로 갤러리 복귀보다, ESC/클릭으로 즉시 닫는 UX가 더 자연스럽고 성능 효율적. URL 상태 관리 복잡도 회피.",
+              "alternatives": [
+                "라우팅 기반 (/gallery/:id) - SEO 유리하지만 전환 속도 느림",
+                "해시 라우팅 (#artwork-1) - 북마크 가능하나 히스토리 관리 복잡"
+              ],
+              "tradeoffs": "모달 방식은 직접 링크 공유 불가능하지만, 포트폴리오 특성상 갤러리 전체 공유가 더 일반적이므로 허용 가능. 향후 공유 기능 추가 시 URL 파라미터로 전환 검토."
+            },
+            {
+              "decision": "썸네일(~300px WebP)과 원본 이미지 완전 분리",
+              "rationale": "고해상도 일러스트(2000px+)를 갤러리에서 모두 로드하면 모바일 3G에서 30초+ 소요. 썸네일은 100KB 이하로 제한하여 LCP 3초 이내 달성 가능.",
+              "alternatives": [
+                "단일 이미지 srcset - 관리 간단하나 모바일 성능 저하",
+                "Progressive JPEG - 점진적 렌더링이지만 파일 크기 여전히 큼"
+              ],
+              "tradeoffs": "썸네일 생성 작업 추가 필요하지만, CDN(Cloudinary) 사용 시 자동화 가능. 성능 이득이 매우 크므로 필수."
+            },
+            {
+              "decision": "상태 관리는 Zustand 단일 스토어로 통합",
+              "rationale": "테마, 필터, 라이트박스 상태를 Context API로 분산하면 리렌더링 최적화 어려움. Zustand는 선택적 구독으로 필요한 컴포넌트만 업데이트.",
+              "alternatives": [
+                "Context API - 추가 의존성 없지만 성능 최적화 한계",
+                "Redux Toolkit - 과도한 보일러플레이트, 소규모 앱에 부적합"
+              ],
+              "tradeoffs": "Zustand 학습 곡선은 낮지만, 팀이 Context API에 익숙하다면 초기에는 Context로 시작 후 성능 이슈 발생 시 전환 가능."
+            },
+            {
+              "decision": "작품 데이터는 정적 JSON 파일로 관리, 빌드 타임 임포트",
+              "rationale": "백엔드 없이 GitHub Pages 등 정적 호스팅 가능. 작품 수가 50개 미만이면 JSON 관리 충분히 효율적.",
+              "alternatives": [
+                "Headless CMS (Contentful) - 초기 설정 복잡, 무료 플랜 제한",
+                "Markdown + Frontmatter - 메타데이터 관리는 편하지만 이미지 경로 관리 번거로움"
+              ],
+              "tradeoffs": "작품 추가 시 JSON 편집 후 재배포 필요하나, Vite 빌드가 빠르므로(~10초) 허용 가능. 작품 100개+ 시 CMS 전환 검토."
+            },
+            {
+              "decision": "React Router로 페이지 라우팅, React.lazy로 코드 스플리팅",
+              "rationale": "Gallery/About/Contact 각 페이지를 별도 청크로 분리하여 초기 번들 크기 최소화. 초기 로드는 Gallery만.",
+              "alternatives": [
+                "단일 페이지 (탭 전환) - 번들 크기 증가, SEO 불리",
+                "Next.js (SSG) - SEO 유리하지만 요구사항에 Vite 명시됨"
+              ],
+              "tradeoffs": "SPA 특성상 SEO 한계 있지만, 포트폴리오는 직접 URL 공유가 주요 유입 경로이므로 문제 없음. React Helmet으로 메타 태그 관리."
+            }
+          ]
+        },
+        "techStack": {
+          "core": [
+            {
+              "name": "React",
+              "version": "18.3",
+              "role": "컴포넌트 기반 UI 프레임워크"
+            },
+            {
+              "name": "TypeScript",
+              "version": "5.x",
+              "role": "타입 안전성 및 개발 생산성"
+            },
+            {
+              "name": "Vite",
+              "version": "5.x",
+              "role": "빠른 개발 서버 및 최적화된 프로덕션 빌드"
+            }
+          ],
+          "styling": [
+            {
+              "name": "Tailwind CSS",
+              "role": "유틸리티 기반 스타일링, 반응형 디자인"
+            },
+            {
+              "name": "shadcn/ui",
+              "role": "접근성 내장 UI 컴포넌트 (Button, Dialog, Card)"
+            }
+          ],
+          "state": [
+            {
+              "name": "Zustand",
+              "role": "경량 전역 상태 관리 (테마, 필터, 라이트박스)"
+            }
+          ],
+          "routing": [
+            {
+              "name": "React Router",
+              "version": "6.x",
+              "role": "페이지 라우팅 및 코드 스플리팅"
+            }
+          ],
+          "utilities": [
+            {
+              "name": "Lucide React",
+              "role": "일관된 아이콘 시스템"
+            },
+            {
+              "name": "Framer Motion",
+              "role": "라이트박스 애니메이션, 페이지 전환"
+            },
+            {
+              "name": "clsx",
+              "role": "조건부 클래스 네이밍"
+            },
+            {
+              "name": "React Helmet Async",
+              "role": "SEO를 위한 메타 태그 관리"
+            }
+          ],
+          "rationale": "React 18의 Concurrent Features(Suspense)로 레이지 로딩 최적화. TypeScript strict 모드로 런타임 에러 사전 방지. Tailwind는 빠른 프로토타이핑과 일관된 디자인 시스템 구축에 유리. shadcn/ui는 Radix UI 기반으로 키보드/스크린리더 접근성이 내장되어 WCAG AA 준수 용이. Zustand는 번들 크기(~1KB)가 작고 선택적 구독으로 리렌더링 최적화. Framer Motion은 선언적 애니메이션으로 복잡한 라이트박스 전환 구현 간편."
+        },
+        "components": [
+          {
+            "name": "App",
+            "type": "container",
+            "layer": "app",
+            "responsibility": "애플리케이션 루트. React Router 설정, 전역 프로바이더(테마, Helmet) 초기화, 에러 바운더리 래핑.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "theme",
+                "artworks"
+              ]
+            },
+            "dependencies": [
+              "Router",
+              "ThemeProvider",
+              "ErrorBoundary",
+              "Layout"
+            ],
+            "children": [
+              "Routes"
+            ],
+            "notes": "Suspense로 레이지 로딩 페이지 래핑. 에러 바운더리는 페이지별로 설정하여 전체 앱 크래시 방지."
+          },
+          {
+            "name": "Layout",
+            "type": "container",
+            "layer": "app",
+            "responsibility": "모든 페이지에 공통으로 표시되는 레이아웃. Header(Navigation), Footer(Social Links), 페이지 콘텐츠 영역 구성.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "theme"
+              ]
+            },
+            "dependencies": [
+              "Header",
+              "Footer"
+            ],
+            "children": [
+              "Outlet (React Router)"
+            ],
+            "notes": "Outlet으로 페이지 컴포넌트를 동적으로 렌더링. min-height: 100vh로 Footer를 하단 고정."
+          },
+          {
+            "name": "Header",
+            "type": "feature",
+            "layer": "app",
+            "responsibility": "상단 네비게이션 바. Gallery/About/Contact 링크, 테마 토글, 모바일 햄버거 메뉴.",
+            "props": [],
+            "state": {
+              "local": [
+                "isMobileMenuOpen"
+              ],
+              "global": [
+                "theme"
+              ]
+            },
+            "dependencies": [
+              "Button (shadcn/ui)",
+              "ThemeToggle",
+              "MobileMenu"
+            ],
+            "children": [
+              "NavLink (React Router)"
+            ],
+            "events": [
+              "onClick (메뉴 토글)",
+              "onThemeChange"
+            ],
+            "notes": "sticky top-0으로 스크롤 시 고정. 현재 페이지는 active 클래스로 강조. 모바일(< 768px)에서 햄버거 메뉴로 전환."
+          },
+          {
+            "name": "ThemeToggle",
+            "type": "ui",
+            "layer": "shared",
+            "responsibility": "다크/라이트 테마 전환 버튼. 아이콘(Sun/Moon)으로 현재 테마 표시, 클릭 시 전환 및 localStorage 저장.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "theme"
+              ]
+            },
+            "dependencies": [
+              "Button (shadcn/ui)",
+              "Sun/Moon 아이콘 (Lucide)"
+            ],
+            "children": [],
+            "events": [
+              "onClick"
+            ],
+            "notes": "useEffect로 초기 마운트 시 시스템 선호도(prefers-color-scheme) 감지. 전환 시 document.documentElement에 dark 클래스 토글."
+          },
+          {
+            "name": "MobileMenu",
+            "type": "ui",
+            "layer": "shared",
+            "responsibility": "모바일 햄버거 메뉴 오버레이. 전체 화면 네비게이션 링크 표시, 닫기 버튼 포함.",
+            "props": [
+              {
+                "name": "isOpen",
+                "type": "boolean",
+                "required": true,
+                "description": "메뉴 열림/닫힘 상태"
+              },
+              {
+                "name": "onClose",
+                "type": "() => void",
+                "required": true,
+                "description": "메뉴 닫기 콜백"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "Dialog (shadcn/ui)",
+              "NavLink"
+            ],
+            "children": [
+              "Navigation links"
+            ],
+            "events": [
+              "onClick (링크 클릭 시 메뉴 닫기)"
+            ],
+            "notes": "Framer Motion으로 슬라이드 인 애니메이션. 배경 클릭 또는 ESC로 닫기."
+          },
+          {
+            "name": "Footer",
+            "type": "ui",
+            "layer": "app",
+            "responsibility": "하단 푸터. 저작권 정보, SNS 링크 아이콘(Twitter, Pixiv, Instagram).",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "SocialLinks"
+            ],
+            "children": [],
+            "notes": "고정 높이(80px)로 Layout에서 padding-bottom 확보. SNS 링크는 rel='noopener noreferrer'로 보안 강화."
+          },
+          {
+            "name": "SocialLinks",
+            "type": "ui",
+            "layer": "shared",
+            "responsibility": "SNS 아이콘 링크 목록. Twitter, Pixiv, Instagram 등 작가 프로필로 연결.",
+            "props": [
+              {
+                "name": "variant",
+                "type": "'horizontal' | 'vertical'",
+                "required": false,
+                "description": "아이콘 배치 방향 (기본: horizontal)"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "Button (shadcn/ui)",
+              "SNS 아이콘 (Lucide)"
+            ],
+            "children": [],
+            "events": [
+              "onClick"
+            ],
+            "notes": "아이콘은 aria-label로 스크린 리더 지원. About 페이지와 Footer에서 재사용."
+          },
+          {
+            "name": "GalleryPage",
+            "type": "container",
+            "layer": "feature",
+            "responsibility": "갤러리 페이지 컨테이너. FilterBar와 GalleryGrid를 조합하여 작품 목록 표시.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "artworks",
+                "selectedCategory"
+              ]
+            },
+            "dependencies": [
+              "FilterBar",
+              "GalleryGrid",
+              "useArtworks hook"
+            ],
+            "children": [
+              "FilterBar",
+              "GalleryGrid"
+            ],
+            "notes": "React.lazy로 코드 스플리팅. Helmet으로 페이지 타이틀 및 메타 태그 설정."
+          },
+          {
+            "name": "FilterBar",
+            "type": "feature",
+            "layer": "feature",
+            "responsibility": "카테고리/태그 필터 버튼 그룹. 'All', 'Character', 'Background', 'Illustration' 등.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "selectedCategory"
+              ]
+            },
+            "dependencies": [
+              "Button (shadcn/ui)"
+            ],
+            "children": [],
+            "events": [
+              "onClick (카테고리 선택)"
+            ],
+            "notes": "선택된 카테고리는 버튼 variant를 'default'로 변경하여 시각적 강조. URL 쿼리 파라미터(?category=character)와 동기화하여 직접 링크 지원."
+          },
+          {
+            "name": "GalleryGrid",
+            "type": "feature",
+            "layer": "feature",
+            "responsibility": "작품 썸네일 그리드 레이아웃. 반응형으로 열 개수 조정(1-5열). 레이지 로딩 적용.",
+            "props": [
+              {
+                "name": "artworks",
+                "type": "Artwork[]",
+                "required": true,
+                "description": "표시할 작품 목록 (필터링된)"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "ArtworkCard",
+              "Intersection Observer (레이지 로딩)"
+            ],
+            "children": [
+              "ArtworkCard[]"
+            ],
+            "notes": "CSS Grid로 구현. grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5. 로딩 중 SkeletonCard 표시."
+          },
+          {
+            "name": "ArtworkCard",
+            "type": "feature",
+            "layer": "feature",
+            "responsibility": "개별 작품 썸네일 카드. 썸네일 이미지, 제목, 호버 효과. 클릭 시 라이트박스 오픈.",
+            "props": [
+              {
+                "name": "artwork",
+                "type": "Artwork",
+                "required": true,
+                "description": "작품 데이터 객체"
+              },
+              {
+                "name": "index",
+                "type": "number",
+                "required": true,
+                "description": "작품 인덱스 (라이트박스 초기 위치)"
+              },
+              {
+                "name": "onOpenLightbox",
+                "type": "(index: number) => void",
+                "required": true,
+                "description": "라이트박스 열기 콜백"
+              }
+            ],
+            "state": {
+              "local": [
+                "isImageLoaded"
+              ],
+              "global": []
+            },
+            "dependencies": [
+              "Card (shadcn/ui)",
+              "LazyImage"
+            ],
+            "children": [
+              "picture 태그 (WebP + JPEG 폴백)"
+            ],
+            "events": [
+              "onClick",
+              "onKeyDown (Enter)"
+            ],
+            "notes": "React.memo로 최적화. 호버 시 scale-105 + shadow-lg. 레이지 로딩은 useIntersectionObserver 훅 사용. 이미지 로드 실패 시 폴백 이미지 표시."
+          },
+          {
+            "name": "LazyImage",
+            "type": "utility",
+            "layer": "shared",
+            "responsibility": "Intersection Observer 기반 레이지 로딩 이미지 컴포넌트. 뷰포트 진입 시 src 로드.",
+            "props": [
+              {
+                "name": "src",
+                "type": "string",
+                "required": true,
+                "description": "이미지 URL"
+              },
+              {
+                "name": "alt",
+                "type": "string",
+                "required": true,
+                "description": "대체 텍스트"
+              },
+              {
+                "name": "fallbackSrc",
+                "type": "string",
+                "required": false,
+                "description": "로드 실패 시 폴백 이미지"
+              }
+            ],
+            "state": {
+              "local": [
+                "isInView",
+                "isLoaded",
+                "hasError"
+              ],
+              "global": []
+            },
+            "dependencies": [
+              "useIntersectionObserver hook"
+            ],
+            "children": [],
+            "notes": "threshold: 0.1, rootMargin: '200px'로 미리 로딩. 로딩 중 blur placeholder 표시. 에러 발생 시 fallbackSrc 또는 기본 에러 이미지."
+          },
+          {
+            "name": "Lightbox",
+            "type": "feature",
+            "layer": "feature",
+            "responsibility": "모달 형태 이미지 뷰어. 고해상도 이미지 표시, 이전/다음 네비게이션, 작품 메타데이터, 키보드/제스처 제어.",
+            "props": [
+              {
+                "name": "isOpen",
+                "type": "boolean",
+                "required": true,
+                "description": "라이트박스 열림/닫힘"
+              },
+              {
+                "name": "currentIndex",
+                "type": "number",
+                "required": true,
+                "description": "현재 작품 인덱스"
+              },
+              {
+                "name": "artworks",
+                "type": "Artwork[]",
+                "required": true,
+                "description": "전체 작품 목록"
+              },
+              {
+                "name": "onClose",
+                "type": "() => void",
+                "required": true,
+                "description": "닫기 콜백"
+              },
+              {
+                "name": "onNavigate",
+                "type": "(direction: 'prev' | 'next') => void",
+                "required": true,
+                "description": "네비게이션 콜백"
+              }
+            ],
+            "state": {
+              "local": [
+                "isImageLoading"
+              ],
+              "global": []
+            },
+            "dependencies": [
+              "Dialog (shadcn/ui)",
+              "Button",
+              "LightboxImage",
+              "ArtworkMetadata"
+            ],
+            "children": [
+              "LightboxImage",
+              "NavigationButtons",
+              "CloseButton",
+              "ArtworkMetadata"
+            ],
+            "events": [
+              "onKeyDown (ArrowLeft/Right, ESC)",
+              "onClick (배경 클릭)"
+            ],
+            "notes": "Framer Motion으로 페이드 인 애니메이션. 포커스 트랩으로 Tab 키가 라이트박스 내에서만 동작. 모바일에서 스와이프 제스처(drag) 지원. 이미지 로딩 중 중앙에 스피너 표시."
+          },
+          {
+            "name": "LightboxImage",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "라이트박스 내 고해상도 이미지 컴포넌트. WebP + JPEG 폴백, 로딩 상태 관리.",
+            "props": [
+              {
+                "name": "src",
+                "type": "string",
+                "required": true,
+                "description": "고해상도 이미지 URL"
+              },
+              {
+                "name": "alt",
+                "type": "string",
+                "required": true,
+                "description": "대체 텍스트"
+              },
+              {
+                "name": "fallbackSrc",
+                "type": "string",
+                "required": false,
+                "description": "폴백 이미지"
+              }
+            ],
+            "state": {
+              "local": [
+                "isLoading",
+                "hasError"
+              ],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "object-contain으로 이미지 비율 유지. max-height: 90vh. 로딩 중 skeleton 또는 blur placeholder. 에러 발생 시 재시도 버튼."
+          },
+          {
+            "name": "ArtworkMetadata",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "라이트박스 내 작품 메타데이터 표시. 제목, 제작일, 설명(선택). 하단 또는 측면 배치.",
+            "props": [
+              {
+                "name": "artwork",
+                "type": "Artwork",
+                "required": true,
+                "description": "작품 데이터"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "반응형: 모바일(하단), 데스크톱(우측 사이드바). 텍스트는 읽기 편한 타이포그래피 적용."
+          },
+          {
+            "name": "AboutPage",
+            "type": "container",
+            "layer": "feature",
+            "responsibility": "작가 소개 페이지. 프로필 이미지, 경력, 작업 스타일, SNS 링크 구성.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "AboutHero",
+              "AboutContent",
+              "SocialLinks"
+            ],
+            "children": [
+              "AboutHero",
+              "AboutContent"
+            ],
+            "notes": "React.lazy로 코드 스플리팅. Helmet으로 메타 태그. 중앙 정렬, max-width: 800px로 읽기 편한 레이아웃."
+          },
+          {
+            "name": "AboutHero",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "About 페이지 상단 히어로 섹션. 작가 프로필 사진 또는 대표 일러스트, 이름, 짧은 소개.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "이미지는 원형(rounded-full) 또는 카드 형태. 타이포그래피: 큰 제목(text-4xl) + 부제목(text-lg)."
+          },
+          {
+            "name": "AboutContent",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "작가 경력, 작업 철학, 스타일 설명 등 본문 콘텐츠. Markdown 또는 일반 텍스트.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "prose 클래스(Tailwind Typography 플러그인)로 가독성 향상. 적절한 line-height와 여백."
+          },
+          {
+            "name": "ContactPage",
+            "type": "container",
+            "layer": "feature",
+            "responsibility": "연락처 및 커미션 정보 페이지. 이메일, DM 링크, 커미션 가격/절차 안내.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "ContactInfo",
+              "CommissionInfo"
+            ],
+            "children": [
+              "ContactInfo",
+              "CommissionInfo"
+            ],
+            "notes": "React.lazy로 코드 스플리팅. FAQ 스타일로 구성 가능."
+          },
+          {
+            "name": "ContactInfo",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "연락 방법 표시. 이메일 주소(클릭 시 mailto), SNS DM 링크.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "Card (shadcn/ui)",
+              "Mail/Twitter 아이콘"
+            ],
+            "children": [],
+            "notes": "이메일은 복사 버튼 제공. SNS는 새 탭으로 열기."
+          },
+          {
+            "name": "CommissionInfo",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "커미션 가격대, 소요 시간, 작업 프로세스, 주의사항 안내.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "Card (shadcn/ui)"
+            ],
+            "children": [],
+            "notes": "테이블 또는 리스트 형태로 구성. 가격은 범위($100-$500)로 제시."
+          },
+          {
+            "name": "SkeletonCard",
+            "type": "ui",
+            "layer": "shared",
+            "responsibility": "갤러리 로딩 중 표시할 스켈레톤 플레이스홀더. 썸네일 크기와 동일한 회색 박스.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "animate-pulse로 로딩 효과. 그리드 레이아웃 유지를 위해 ArtworkCard와 동일한 aspect-ratio."
+          },
+          {
+            "name": "LoadingSpinner",
+            "type": "ui",
+            "layer": "shared",
+            "responsibility": "범용 로딩 스피너 컴포넌트. 데이터 로드 중, 이미지 로딩 중 등 다양한 곳에서 재사용.",
+            "props": [
+              {
+                "name": "size",
+                "type": "'sm' | 'md' | 'lg'",
+                "required": false,
+                "description": "스피너 크기 (기본: md)"
+              },
+              {
+                "name": "className",
+                "type": "string",
+                "required": false,
+                "description": "추가 CSS 클래스"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "Lucide의 Loader2 아이콘을 animate-spin으로 회전. 접근성을 위해 aria-label='Loading' 포함."
+          },
+          {
+            "name": "NavigationButtons",
+            "type": "ui",
+            "layer": "feature",
+            "responsibility": "라이트박스 내 이전/다음 네비게이션 버튼. 좌우 화살표 아이콘.",
+            "props": [
+              {
+                "name": "onPrevious",
+                "type": "() => void",
+                "required": true,
+                "description": "이전 작품으로 이동"
+              },
+              {
+                "name": "onNext",
+                "type": "() => void",
+                "required": true,
+                "description": "다음 작품으로 이동"
+              },
+              {
+                "name": "hasPrevious",
+                "type": "boolean",
+                "required": true,
+                "description": "이전 작품 존재 여부"
+              },
+              {
+                "name": "hasNext",
+                "type": "boolean",
+                "required": true,
+                "description": "다음 작품 존재 여부"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [
+              "Button (shadcn/ui)",
+              "ChevronLeft/Right 아이콘"
+            ],
+            "children": [],
+            "events": [
+              "onClick"
+            ],
+            "notes": "버튼은 이미지 좌우에 절대 위치. 첫/마지막 작품일 경우 해당 버튼 비활성화. aria-label로 스크린 리더 지원."
+          },
+          {
+            "name": "ErrorBoundary",
+            "type": "utility",
+            "layer": "app",
+            "responsibility": "React 에러 바운더리. 컴포넌트 트리 내 에러 캐치 및 폴백 UI 표시.",
+            "props": [
+              {
+                "name": "children",
+                "type": "ReactNode",
+                "required": true,
+                "description": "보호할 컴포넌트 트리"
+              }
+            ],
+            "state": {
+              "local": [
+                "hasError",
+                "error"
+              ],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [
+              "Fallback UI (에러 메시지, 새로고침 버튼)"
+            ],
+            "notes": "componentDidCatch로 에러 로깅. 개발 환경에서는 에러 스택 표시, 프로덕션에서는 친절한 메시지."
+          },
+          {
+            "name": "ImageOptimizationService",
+            "type": "service",
+            "layer": "shared",
+            "responsibility": "이미지 최적화 유틸리티. WebP 지원 감지, 적절한 이미지 포맷 선택, srcset 생성.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "브라우저의 WebP 지원 여부를 Modernizr 없이 <picture> 태그로 자동 감지. 향후 AVIF 포맷 추가 가능."
+          },
+          {
+            "name": "useArtworks",
+            "type": "hook",
+            "layer": "feature",
+            "responsibility": "작품 데이터 로드 및 필터링 로직. JSON 파일에서 데이터 가져오기, 카테고리별 필터링.",
+            "props": [],
+            "state": {
+              "local": [
+                "artworks",
+                "isLoading",
+                "error"
+              ],
+              "global": [
+                "selectedCategory"
+              ]
+            },
+            "dependencies": [
+              "Zustand store"
+            ],
+            "children": [],
+            "notes": "useMemo로 필터링 결과 캐싱. 초기 로드 시 Suspense로 감싸기. JSON을 import()로 동적 로드하여 초기 번들 크기 최소화."
+          },
+          {
+            "name": "useLightbox",
+            "type": "hook",
+            "layer": "feature",
+            "responsibility": "라이트박스 상태 관리 및 키보드 이벤트 핸들링. 열기/닫기, 인덱스 변경 로직.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "lightbox (isOpen, currentIndex)"
+              ]
+            },
+            "dependencies": [
+              "Zustand store"
+            ],
+            "children": [],
+            "notes": "useEffect로 키보드 이벤트 리스너 등록/해제. 화살표 키, ESC 키 처리. 포커스 트랩 구현. 라이트박스 열릴 때 body에 overflow: hidden 설정."
+          },
+          {
+            "name": "useIntersectionObserver",
+            "type": "hook",
+            "layer": "shared",
+            "responsibility": "Intersection Observer API 래핑. 요소가 뷰포트에 진입했는지 감지.",
+            "props": [
+              {
+                "name": "ref",
+                "type": "RefObject<HTMLElement>",
+                "required": true,
+                "description": "관찰할 요소 ref"
+              },
+              {
+                "name": "options",
+                "type": "IntersectionObserverInit",
+                "required": false,
+                "description": "Observer 옵션"
+              }
+            ],
+            "state": {
+              "local": [
+                "isInView"
+              ],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "useEffect로 Observer 생성/해제. 기본 옵션: threshold 0.1, rootMargin '200px'. 브라우저 미지원 시 폴백으로 즉시 로드."
+          },
+          {
+            "name": "useTheme",
+            "type": "hook",
+            "layer": "shared",
+            "responsibility": "테마 상태 및 전환 로직. localStorage 동기화, 시스템 선호도 감지.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "theme"
+              ]
+            },
+            "dependencies": [
+              "Zustand store"
+            ],
+            "children": [],
+            "notes": "useEffect로 초기 마운트 시 localStorage 또는 prefers-color-scheme 읽기. 테마 변경 시 document.documentElement.classList 업데이트. matchMedia로 시스템 테마 변경 감지."
+          },
+          {
+            "name": "useKeyboard",
+            "type": "hook",
+            "layer": "shared",
+            "responsibility": "키보드 이벤트 처리 범용 훅. 특정 키 조합에 콜백 바인딩.",
+            "props": [
+              {
+                "name": "key",
+                "type": "string",
+                "required": true,
+                "description": "감지할 키 (예: 'Escape', 'ArrowLeft')"
+              },
+              {
+                "name": "callback",
+                "type": "() => void",
+                "required": true,
+                "description": "키 입력 시 실행할 함수"
+              },
+              {
+                "name": "options",
+                "type": "{ enabled?: boolean }",
+                "required": false,
+                "description": "활성화 여부 (기본: true)"
+              }
+            ],
+            "state": {
+              "local": [],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "useEffect로 keydown/keyup 이벤트 리스너 등록. useCallback으로 메모이제이션. 모달 열릴 때만 활성화하는 등 조건부 사용 가능."
+          },
+          {
+            "name": "useLocalStorage",
+            "type": "hook",
+            "layer": "shared",
+            "responsibility": "localStorage 동기화 범용 훅. 상태와 localStorage를 자동 동기화.",
+            "props": [
+              {
+                "name": "key",
+                "type": "string",
+                "required": true,
+                "description": "localStorage 키"
+              },
+              {
+                "name": "initialValue",
+                "type": "T",
+                "required": true,
+                "description": "초기값"
+              }
+            ],
+            "state": {
+              "local": [
+                "storedValue"
+              ],
+              "global": []
+            },
+            "dependencies": [],
+            "children": [],
+            "notes": "useState와 useEffect를 결합. JSON.parse/stringify로 객체 저장 가능. 에러 처리 포함."
+          },
+          {
+            "name": "useAppStore",
+            "type": "store",
+            "layer": "app",
+            "responsibility": "Zustand 전역 상태 스토어. 작품 데이터, 테마, 필터, 라이트박스 상태 통합 관리.",
+            "props": [],
+            "state": {
+              "local": [],
+              "global": [
+                "artworks",
+                "theme",
+                "selectedCategory",
+                "lightbox"
+              ]
+            },
+            "dependencies": [
+              "zustand",
+              "zustand/middleware (persist)"
+            ],
+            "children": [],
+            "notes": "persist 미들웨어로 테마 설정 localStorage 저장. 선택자(selector)로 필요한 상태만 구독. immer 미들웨어로 불변성 관리 간소화 가능."
+          }
+        ],
+        "dataModels": [
+          {
+            "name": "Artwork",
+            "description": "갤러리 작품 데이터 모델. 썸네일과 원본 이미지 URL, 메타데이터 포함.",
+            "fields": [
+              {
+                "name": "id",
+                "type": "string",
+                "description": "고유 식별자 (UUID 또는 순차 번호)"
+              },
+              {
+                "name": "title",
+                "type": "string",
+                "description": "작품 제목"
+              },
+              {
+                "name": "thumbnailUrl",
+                "type": "string",
+                "description": "썸네일 이미지 URL (WebP, ~300px, <100KB)"
+              },
+              {
+                "name": "fullUrl",
+                "type": "string",
+                "description": "고해상도 원본 이미지 URL (2000px+)"
+              },
+              {
+                "name": "fallbackThumbnail",
+                "type": "string",
+                "optional": true,
+                "description": "썸네일 JPEG 폴백 URL"
+              },
+              {
+                "name": "fallbackFull",
+                "type": "string",
+                "optional": true,
+                "description": "원본 JPEG 폴백 URL"
+              },
+              {
+                "name": "category",
+                "type": "'character' | 'background' | 'illustration' | 'fanart'",
+                "description": "작품 카테고리"
+              },
+              {
+                "name": "tags",
+                "type": "string[]",
+                "description": "태그 배열 (예: ['original', 'commission'])"
+              },
+              {
+                "name": "date",
+                "type": "string",
+                "description": "제작 날짜 (ISO 8601 형식: 2024-01-15)"
+              },
+              {
+                "name": "description",
+                "type": "string",
+                "optional": true,
+                "description": "작품 설명 (선택 사항)"
+              }
+            ],
+            "relationships": [
+              "카테고리별 그룹핑, 태그로 교차 필터링 가능"
+            ]
+          },
+          {
+            "name": "Theme",
+            "description": "애플리케이션 테마 설정",
+            "fields": [
+              {
+                "name": "mode",
+                "type": "'light' | 'dark'",
+                "description": "현재 테마 모드"
+              }
+            ],
+            "relationships": [
+              "localStorage에 저장되어 세션 간 유지"
+            ]
+          },
+          {
+            "name": "LightboxState",
+            "description": "라이트박스 상태 관리용 모델",
+            "fields": [
+              {
+                "name": "isOpen",
+                "type": "boolean",
+                "description": "라이트박스 열림/닫힘"
+              },
+              {
+                "name": "currentIndex",
+                "type": "number",
+                "description": "현재 표시 중인 작품 인덱스"
+              }
+            ],
+            "relationships": [
+              "artworks 배열과 연동하여 현재 작품 조회"
+            ]
+          }
+        ],
+        "stateManagement": {
+          "strategy": "Zustand 단일 스토어 with 선택적 구독 (selectors). Context API 대신 Zustand를 사용하여 리렌더링 최적화 및 불필요한 prop drilling 회피.",
+          "stores": [
+            {
+              "name": "useAppStore",
+              "purpose": "애플리케이션 전역 상태 통합 관리. 작품 데이터, 테마, 필터, 라이트박스 상태 포함.",
+              "state": [
+                "artworks: Artwork[] - JSON에서 로드한 전체 작품 목록",
+                "theme: 'light' | 'dark' - 현재 테마 모드",
+                "selectedCategory: string | null - 선택된 카테고리 필터 (null이면 전체)",
+                "lightbox: { isOpen: boolean, currentIndex: number } - 라이트박스 상태"
+              ],
+              "actions": [
+                "loadArtworks: (artworks: Artwork[]) => void - 작품 데이터 초기화",
+                "setTheme: (theme: 'light' | 'dark') => void - 테마 변경 및 localStorage 저장",
+                "setCategory: (category: string | null) => void - 필터 카테고리 설정",
+                "openLightbox: (index: number) => void - 라이트박스 열기",
+                "closeLightbox: () => void - 라이트박스 닫기",
+                "navigateLightbox: (direction: 'prev' | 'next') => void - 라이트박스 네비게이션"
+              ],
+              "selectors": [
+                "const artworks = useAppStore((state) => state.artworks) - 작품 목록 구독",
+                "const theme = useAppStore((state) => state.theme) - 테마 구독",
+                "const lightbox = useAppStore((state) => state.lightbox) - 라이트박스 상태 구독",
+                "const filteredArtworks = useAppStore((state) => state.selectedCategory ? state.artworks.filter(...) : state.artworks) - 필터링된 작품 목록"
+              ],
+              "persistence": true
+            }
+          ],
+          "dataFlow": "단방향 데이터 흐름. JSON 파일 → useAppStore.loadArtworks() → 전역 state에 저장 → 컴포넌트는 selector로 필요한 state만 구독 → 사용자 액션 시 actions 호출 → state 업데이트 → 구독 중인 컴포넌트만 리렌더링. 예: FilterBar에서 카테고리 선택 → setCategory() → GalleryGrid가 filteredArtworks selector로 업데이트된 목록 수신."
+        },
+        "directoryStructure": {
+          "src": {
+            "components": {
+              "ui": "shadcn/ui 기반 공통 UI 컴포넌트 (Button, Card, Dialog, Skeleton 등)",
+              "layout": "Header, Footer, Layout 등 레이아웃 컴포넌트"
+            },
+            "features": {
+              "gallery": {
+                "components": "GalleryPage, GalleryGrid, ArtworkCard, FilterBar, Lightbox, LightboxImage, ArtworkMetadata, NavigationButtons",
+                "hooks": "useArtworks, useLightbox",
+                "types": "artwork.ts (Artwork 인터페이스)"
+              },
+              "about": {
+                "components": "AboutPage, AboutHero, AboutContent"
+              },
+              "contact": {
+                "components": "ContactPage, ContactInfo, CommissionInfo"
+              }
+            },
+            "hooks": "useIntersectionObserver, useTheme, useKeyboard, useLocalStorage 등 공통 custom hooks",
+            "stores": "useAppStore.ts (Zustand 스토어)",
+            "services": "ImageOptimizationService.ts (이미지 최적화 유틸리티)",
+            "lib": "utils.ts (clsx, cn 유틸리티), constants.ts (상수 정의)",
+            "types": "global.d.ts (전역 타입 정의)",
+            "data": "artworks.json (작품 데이터)",
+            "assets": "images (폴백 이미지, 로고 등 정적 자산)",
+            "App.tsx": "루트 컴포넌트 (라우터, 프로바이더 설정)",
+            "main.tsx": "진입점 (ReactDOM.render)"
+          }
+        },
+        "accessibility": {
+          "strategy": "WCAG 2.1 AA 준수를 목표로 키보드 네비게이션, 스크린 리더 지원, 적절한 색상 대비 확보. shadcn/ui(Radix UI 기반)의 내장 접근성 활용.",
+          "keyFeatures": [
+            "키보드 네비게이션: Tab으로 모든 인터랙티브 요소 접근, Enter로 활성화, 화살표로 라이트박스 탐색, ESC로 모달 닫기",
+            "포커스 표시: focus-visible 클래스로 키보드 사용자를 위한 명확한 포커스 링 (ring-2 ring-offset-2)",
+            "스크린 리더: 모든 이미지에 alt 속성, ARIA 레이블(aria-label, aria-labelledby), role 속성 적절히 사용",
+            "시맨틱 HTML: header, nav, main, footer, article, figure 등 의미론적 태그 사용",
+            "색상 대비: Tailwind의 기본 색상 팔레트는 WCAG AA 준수, 커스텀 색상은 대비 비율 검증",
+            "포커스 트랩: 라이트박스 열릴 때 포커스를 모달 내부로 제한, Tab 키가 순환"
+          ],
+          "ariaPatterns": [
+            "dialog (라이트박스): role='dialog', aria-modal='true', aria-labelledby='artwork-title'",
+            "navigation: role='navigation', aria-label='Main navigation'",
+            "button: aria-label로 아이콘 버튼 설명 (예: aria-label='Close lightbox')",
+            "live region: 라이트박스 네비게이션 시 aria-live='polite'로 현재 위치 알림 (예: '3 of 10')"
+          ]
+        },
+        "performance": {
+          "strategy": "이미지 최적화와 코드 스플리팅을 핵심으로, 모바일 3G 환경에서 LCP < 3초 달성. 번들 크기 최소화 및 레이지 로딩 적극 활용.",
+          "techniques": [
+            {
+              "technique": "이미지 레이지 로딩",
+              "where": "갤러리 썸네일. Intersection Observer로 뷰포트 진입 시 로드, rootMargin: '200px'로 미리 로딩."
+            },
+            {
+              "technique": "WebP + JPEG 폴백",
+              "where": "모든 이미지. <picture> 태그로 브라우저 지원에 따라 자동 선택."
+            },
+            {
+              "technique": "썸네일/원본 분리",
+              "where": "갤러리는 ~300px 썸네일(<100KB), 라이트박스는 2000px+ 원본 로드."
+            },
+            {
+              "technique": "Code splitting",
+              "where": "React.lazy로 Gallery, About, Contact 페이지 분리. 초기 번들에는 Gallery만 포함."
+            },
+            {
+              "technique": "React.memo",
+              "where": "ArtworkCard 컴포넌트. props 변경 시만 리렌더링."
+            },
+            {
+              "technique": "useMemo/useCallback",
+              "where": "필터링 로직(useArtworks), 라이트박스 핸들러(useLightbox)에서 재계산/재생성 방지."
+            },
+            {
+              "technique": "Vite 번들 최적화",
+              "where": "자동 트리 쉐이킹, CSS 코드 스플리팅, gzip 압축."
+            },
+            {
+              "technique": "Preload critical resources",
+              "where": "작품 JSON 파일, 주요 폰트를 <link rel='preload'>로 우선 로드."
+            }
+          ],
+          "targets": {
+            "fcp": "< 1.5s (갤러리 썸네일 첫 렌더링)",
+            "lcp": "< 3s (모바일 3G 기준, 가장 큰 썸네일 로드 완료)",
+            "cls": "< 0.1 (그리드 레이아웃 고정, aspect-ratio로 예약 공간 확보)",
+            "tti": "< 4s (인터랙티브 가능 상태)",
+            "bundle": "초기 JavaScript < 300KB (gzip), CSS < 50KB"
+          }
+        },
+        "crossValidation": {
+          "requirementsCoverage": [
+            {
+              "requirementId": "FR-001",
+              "components": [
+                "GalleryGrid",
+                "ArtworkCard",
+                "SkeletonCard"
+              ]
+            },
+            {
+              "requirementId": "FR-002",
+              "components": [
+                "Lightbox",
+                "LightboxImage",
+                "ArtworkMetadata",
+                "useLightbox"
+              ]
+            },
+            {
+              "requirementId": "FR-003",
+              "components": [
+                "AboutPage",
+                "AboutHero",
+                "AboutContent"
+              ]
+            },
+            {
+              "requirementId": "FR-004",
+              "components": [
+                "ContactPage",
+                "ContactInfo",
+                "CommissionInfo"
+              ]
+            },
+            {
+              "requirementId": "FR-005",
+              "components": [
+                "Header",
+                "MobileMenu",
+                "ThemeToggle"
+              ]
+            },
+            {
+              "requirementId": "FR-006",
+              "components": [
+                "LazyImage",
+                "useIntersectionObserver"
+              ]
+            },
+            {
+              "requirementId": "FR-007",
+              "components": [
+                "FilterBar",
+                "useAppStore (selectedCategory)"
+              ]
+            },
+            {
+              "requirementId": "FR-008",
+              "components": [
+                "useLightbox (키보드 이벤트)",
+                "Lightbox",
+                "ArtworkCard"
+              ]
+            },
+            {
+              "requirementId": "FR-009",
+              "components": [
+                "SocialLinks",
+                "Footer"
+              ]
+            },
+            {
+              "requirementId": "FR-010",
+              "components": [
+                "ArtworkMetadata"
+              ]
+            },
+            {
+              "requirementId": "FR-011",
+              "components": [
+                "ThemeToggle",
+                "useTheme",
+                "useAppStore"
+              ]
+            },
+            {
+              "requirementId": "FR-012",
+              "components": [
+                "미구현 (Could 우선순위)"
+              ]
+            },
+            {
+              "requirementId": "FR-013",
+              "components": [
+                "미구현 (Could 우선순위)"
+              ]
+            }
+          ],
+          "nfrAddressed": [
+            {
+              "category": "performance",
+              "solution": "썸네일/원본 분리, WebP 최우선, Intersection Observer 레이지 로딩, 코드 스플리팅으로 LCP < 3s 달성."
+            },
+            {
+              "category": "accessibility",
+              "solution": "shadcn/ui의 Radix UI 기반 접근성 내장, 키보드 네비게이션 전체 구현, ARIA 패턴 준수, 포커스 트랩."
+            },
+            {
+              "category": "usability",
+              "solution": "Tailwind 반응형 클래스로 320px~1920px 지원, 모바일 터치 제스처(Framer Motion drag), 직관적 라이트박스 UX."
+            },
+            {
+              "category": "reliability",
+              "solution": "ErrorBoundary로 컴포넌트 크래시 격리, 이미지 로드 실패 시 폴백 이미지 + 재시도, 브라우저 호환성(최신 Chrome/Safari/Firefox/Edge)."
+            }
+          ]
+        }
+      },
+      "implementationPlan": {
+        "totalPhases": 0,
+        "phases": [],
+        "requiredDocs": []
+      },
+      "approvalStatus": "approved"
+    },
+    "thinkingHistory": [
+      {
+        "stepNumber": 1,
+        "type": "analysis",
+        "summary": "사용자의 요청에서 핵심 기능 요구사항을 파악합니다.",
+        "timestamp": "1769912710252"
+      },
+      {
+        "stepNumber": 2,
+        "type": "analysis",
+        "summary": "기능적 요구사항(시스템 동작)을 도출합니다.",
+        "timestamp": "1769912710253"
+      },
+      {
+        "stepNumber": 3,
+        "type": "analysis",
+        "summary": "비기능적 요구사항(성능, 보안, UX)을 도출합니다.",
+        "timestamp": "1769912710253"
+      },
+      {
+        "stepNumber": 4,
+        "type": "conclusion",
+        "summary": "요구사항 분석 완료: 5개 핵심 요구사항, 13개 기능적 요구사항 도출. 신뢰도: 92%",
+        "timestamp": "1769912896543"
+      },
+      {
+        "stepNumber": 5,
+        "type": "analysis",
+        "summary": "요구사항을 바탕으로 최적의 아키텍처 패턴을 선택합니다.",
+        "timestamp": "1769912896543"
+      },
+      {
+        "stepNumber": 6,
+        "type": "analysis",
+        "summary": "기술 스택과 컴포넌트 구조를 결정합니다.",
+        "timestamp": "1769912896543"
+      },
+      {
+        "stepNumber": 7,
+        "type": "verification",
+        "summary": "아키텍처 검증 결과: 신뢰도 65%. 1개 이슈 발견. 재설계를 수행합니다.",
+        "timestamp": "1769913149381"
+      },
+      {
+        "stepNumber": 8,
+        "type": "analysis",
+        "summary": "재설계 완료. 개선된 신뢰도: 70%",
+        "timestamp": "1769913394316"
+      },
+      {
+        "stepNumber": 9,
+        "type": "conclusion",
+        "summary": "아키텍처 설계 완료: Component-Based 패턴 선택, 33개 컴포넌트 정의",
+        "timestamp": "1769913394318"
+      },
+      {
+        "stepNumber": 10,
+        "type": "analysis",
+        "summary": "컴포넌트 간 의존성을 분석하여 구현 순서를 결정합니다.",
+        "timestamp": "1769919539224"
+      },
+      {
+        "stepNumber": 11,
+        "type": "conclusion",
+        "summary": "구현 계획 완료: 7개 phase, 총 46개 파일 생성 예정",
+        "timestamp": "1769919784918"
+      },
+      {
+        "stepNumber": 12,
+        "type": "analysis",
+        "summary": "설계 문서와 수집된 문서를 바탕으로 코드를 생성합니다.",
+        "timestamp": "1769919784918"
+      },
+      {
+        "stepNumber": 13,
+        "type": "conclusion",
+        "summary": "코드 생성 완료: 23개 파일 생성",
+        "timestamp": "1769919981976"
+      }
+    ],
+    "collectedDocs": [
+      {
+        "library": "React",
+        "query": "react best practices patterns",
+        "snippets": [
+          {
+            "title": "useState Hook",
+            "content": "const [state, setState] = useState(initialValue);\n\n// With type\nconst [count, setCount] = useState<number>(0);\n\n// Lazy initialization\nconst [data, setData] = useState(() => expensiveComputation());\n\n// Updating based on previous state\nsetCount(prev => prev + 1);",
+            "relevance": 1
+          },
+          {
+            "title": "useEffect Hook",
+            "content": "// Run on every render\nuseEffect(() => {\n  console.log('Rendered');\n});\n\n// Run once on mount\nuseEffect(() => {\n  fetchData();\n}, []);\n\n// Run when dependencies change\nuseEffect(() => {\n  fetchUser(userId);\n}, [userId]);\n\n// Cleanup function\nuseEffect(() => {\n  const subscription = subscribe();\n  return () => subscription.unsubscribe();\n}, []);",
+            "relevance": 1
+          },
+          {
+            "title": "useCallback Hook",
+            "content": "// Memoize callback to prevent unnecessary re-renders\nconst memoizedCallback = useCallback(() => {\n  doSomething(a, b);\n}, [a, b]);\n\n// Common pattern with child components\nconst handleClick = useCallback((id: string) => {\n  setSelected(id);\n}, []);",
+            "relevance": 0.9
+          }
+        ],
+        "fetchedAt": "1769919539211"
+      }
+    ]
+  },
+  "terminalLogs": [
+    "[user] 일본 미소녀풍 일러스트 작가 Melings의 아트워크 포트폴리오 사이트",
+    "[info] 새 앱 레이어 생성: Ge90vi7aIBnH2fFOe2fLt",
+    "[Pro Mode] 요구사항 분석을 시작합니다...",
+    "[Pro Mode] 요구사항을 분석하고 있습니다...",
+    "[state] PRO_REQUIREMENTS_ANALYSIS: 🧠 Pro: 요구사항 심층 분석 중...",
+    "[Pro Mode 🧠] AI 분석 (requirements_analysis):\n사용자가 요청한 것은 \"일본 미소녀풍 일러스트 작가 Melings의 아트워크 포트폴리오 사이트\"입니다.\n\nDr. Sarah Chen의 관점에서 깊이 분석해보겠습니다.\n\n## 1. 도메인 깊이 분석\n- **산업/도메인**: 디지털 아트 포트폴리오, 일러스트레이터 개인 브랜딩\n- **성공한 유사 제품들**:\n  - ArtStation (프로페셔널 아트 포트폴리오)\n  - Pixiv (일본 일러스트레이터 커뮤니티)\n  - Behance (크리에이티브 포트폴리오)\n  - 개인 작가 사이트들 (wlop.art, loish.net 등)\n\n- **타겟 사용자의 실제 pain points**:\n  1. 작가 입장: 작품을 효과적으로 보여주고 싶지만 웹 개발 지식이 부족\n  2. 감상자 입장: 고해상도 이미지를 빠르게 로딩하고 싶고, 작품을 크게 보고 싶음\n  3. 잠재 고객 입장: 커미션/의뢰 방법을 쉽게 찾고 싶음\n\n- **차별화 포인트**:\n  - 일본 미소녀풍 특화 스타일 강조\n  - Mel...",
+    "[Pro Mode] 요구사항을 분석하고 있습니다... (20%)",
+    "[Pro Mode] 아키텍처를 설계하고 있습니다...",
+    "[state] PRO_ARCHITECTURE_DESIGN: 🏗️ Pro: 아키텍처 설계 중...",
+    "[Pro Mode 🧠] AI 분석 (architecture_design):\n이 요구사항은 일러스트레이터 Melings의 포트폴리오 웹사이트를 위한 것입니다. 핵심은:\n\n1. **도메인**: 일본 미소녀풍 일러스트 포트폴리오\n2. **핵심 기능**: \n   - 갤러리 그리드 뷰\n   - 라이트박스 이미지 뷰어 (키보드 네비게이션)\n   - About/Contact 페이지\n   - 반응형 디자인\n   - 이미지 최적화 (레이지 로딩, WebP)\n\n3. **기술 스택 (고정)**:\n   - React 18 + TypeScript (strict)\n   - Vite\n   - Tailwind CSS\n   - shadcn/ui\n   - Zustand (필요시)\n   - Framer Motion\n   - Lucide React\n\n4. **제약사항**:\n   - 프론트엔드 단독 (백엔드 없음)\n   - JSON 파일로 작품 데이터 관리\n   - 정적 이미지 제공\n\n5. **NFR**:\n   - FCP < 1.5s, LCP < 3s\n   - 썸네일 < 100KB, WebP ...",
+    "[Pro Mode 🧠] AI 분석 (architecture_design):\n현재 아키텍처 분석의 문제점:\n1. 컴포넌트 타입에 \"hook\"과 \"store\"가 이미 있는데, \"component\" 타입이 누락되었다는 경고가 있음\n2. 신뢰도가 65%로 낮음\n\n분석 결과를 보니:\n- 이미 hook 타입 컴포넌트: useArtworks, useLightbox, useIntersectionObserver, useTheme\n- 이미 store 타입 컴포넌트: useAppStore\n- 그런데 \"component\" 타입이 누락되었다는 게 이상함\n\n아마도 검증 스크립트에서 일반적인 React 컴포넌트를 \"component\" 타입으로 분류해야 하는데, 현재는 \"ui\", \"feature\", \"container\", \"utility\"로만 분류되어 있어서 경고가 발생한 것 같음.\n\n해결 방법:\n1. 일부 컴포넌트의 type을 \"component\"로 변경하거나\n2. 또는 기존 타입 체계가 맞다면 검증 스크립트가 잘못된 것\n\n하지만 프롬프트를 보면 type은 \"ui\" | \"featur...",
+    "[Pro Mode] 아키텍처를 설계하고 있습니다... (40%)",
+    "[Pro Mode] 설계 문서가 준비되었습니다. 검토 후 승인해주세요.",
+    "[Pro Mode] 설계 문서가 준비되었습니다. 검토 후 승인해주세요.",
+    "[state] PRO_DESIGN_REVIEW: 📋 Pro: 설계 리뷰 대기 중 (승인 필요)",
+    "[Pro Mode] 설계가 승인되었습니다. 관련 문서를 수집합니다...",
+    "[Pro Mode] 관련 문서를 수집하고 있습니다...",
+    "[state] PRO_DOCUMENT_FETCHING: 📚 Pro: 라이브러리 문서 수집 중...",
+    "[Pro Mode] 관련 문서를 수집하고 있습니다... (60%)",
+    "[Pro Mode] 구현 계획을 수립하고 있습니다...",
+    "[state] PRO_IMPLEMENTATION_PLANNING: 📝 Pro: 구현 계획 수립 중...",
+    "[Pro Mode 🧠] AI 분석 (implementation_planning):\n이 요청은 일러스트레이터 포트폴리오 웹사이트의 구현 계획을 수립하는 것입니다. 요구사항 분석과 아키텍처 설계가 이미 상세히 제공되었으므로, 이를 바탕으로 단계별 구현 계획을 작성해야 합니다.\n\n핵심 원칙:\n1. 의존성 우선 구현\n2. 점진적 통합\n3. 기술적 불확실성이 높은 부분 먼저\n4. 병렬 작업 가능한 부분 식별\n\nPhase 구성:\n- Phase 0: 프로젝트 설정\n- Phase 1: 기반 타입 및 유틸리티\n- Phase 2: 공통 UI 컴포넌트\n- Phase 3: 상태 관리 및 훅\n- Phase 4: Feature 컴포넌트\n- Phase 5: 통합 및 최적화\n\n각 Phase별로:\n- 파일 목록과 구현 순서\n- 각 파일의 목적, 핵심 구현, 의존성, export API\n- 검증 기준\n\n전문가 관점:\n- David Park: 실용적 구현, 성능 최적화, 코드 품질\n- Dr. Sarah Chen: 시스템 아키텍처, 확장성, 장기 유지보수성\n\nCritical Path 식별:\ntype...",
+    "[Pro Mode] 구현 계획을 수립하고 있습니다... (70%)",
+    "[Pro Mode] 코드를 생성하고 있습니다...",
+    "[state] PRO_CODE_GENERATION: ⚡ Pro: 설계 기반 코드 생성 중...",
+    "[Pro Mode 🧠] AI 분석 (code_generation):\n사용자가 일본 미소녀풍 일러스트 갤러리 웹사이트를 위한 완전한 코드를 요청하고 있습니다. David Park의 페르소나로서 프로덕션 품질의 코드를 생성해야 합니다.\n\n핵심 요구사항을 분석해보겠습니다:\n\n1. **갤러리 그리드 뷰**: 작품 썸네일 그리드, 반응형 레이아웃\n2. **라이트박스 뷰어**: 모달 형태, 고해상도 이미지, 이전/다음 네비게이션\n3. **About/Contact 페이지**: 작가 소개, 커미션 정보\n4. **반응형 디자인**: 모바일부터 데스크톱까지\n5. **성능 최적화**: 레이지 로딩, 이미지 최적화\n6. **다크/라이트 테마**\n7. **접근성**: 키보드 네비게이션, ARIA\n\n기술 스택:\n- React 18 + TypeScript\n- Vite\n- Tailwind CSS\n- shadcn/ui\n- Zustand (상태 관리)\n- React Router\n- Lucide React (아이콘)\n\nPhase별로 파일을 생성하겠습니다:\n\n**Phase 0**: 설...",
+    "[Pro Mode] 코드를 생성하고 있습니다... (90%)",
+    "[Pro Mode] 품질을 검증하고 있습니다...",
+    "[Pro Mode] 품질을 검증하고 있습니다... (100%)",
+    "[Pro Mode] 23개의 파일을 생성했습니다.",
+    "[Pro Mode] 앱을 배포합니다...",
+    "[state] PRO_QUALITY_VALIDATION: ✅ Pro: 품질 검증 중...",
+    "$ npm install",
+    "[npm] 패키지 설치 중... (16 작업 진행)",
+    "[npm] 패키지 설치 중... (37 작업 진행)",
+    "[npm] 패키지 설치 중... (56 작업 진행)",
+    "[npm] 패키지 설치 중... (79 작업 진행)",
+    "[npm] 패키지 설치 중... (101 작업 진행)",
+    "[npm] 패키지 설치 중... (124 작업 진행)",
+    "[npm] 패키지 설치 중... (146 작업 진행)",
+    "added 127 packages in 22s",
+    "[npm install] 완료 (exit code: 0)",
+    "$ npm run dev",
+    "Starting dev server...",
+    "25 packages are looking for funding",
+    "run `npm fund` for details",
+    "Waiting for server ready...",
+    "✅ Server ready at: https://dr9vdvkuc0w6ypgg4f3bwszqpyfn3q-huez--5173--31fc58ec.local-corp.webcontainer-api.io",
+    "[success] Server ready: https://dr9vdvkuc0w6ypgg4f3bwszqpyfn3q-huez--5173--31fc58ec.local-corp.webcontainer-api.io",
+    "[state] REVIEWING: 앱 실행 중"
+  ]
+}
